@@ -1,0 +1,433 @@
+2022-06-20T00:15:28.181Z,0.181296,0fa4,6 [FLog::Output] RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T00:15:28.182Z,0.182283,0fa4,6 [FLog::Output] The channel is production
+2022-06-20T00:15:28.411Z,0.411269,0fa4,6 [FLog::Error] Test log: Map check complete and successful!
+2022-06-20T00:15:28.412Z,0.412269,0fa4,6 [FLog::Error] Dynamic initializer test result: SUCCESS
+2022-06-20T00:15:28.413Z,0.413268,0fa4,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 0 active: 0>
+2022-06-20T00:15:28.438Z,0.438255,0fa4,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T00:15:28.516Z,0.516191,0fa4,6 [FLog::Output] Loading AppSettings.xml from C:\Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\AppSettings.xml
+2022-06-20T00:15:28.517Z,0.517197,0fa4,6 [FLog::Output] setAssetFolder content
+2022-06-20T00:15:28.520Z,0.520215,0fa4,6 [FLog::Output] setExtraAssetFolder C:/Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\ExtraContent
+2022-06-20T00:15:28.812Z,0.812848,0fa4,6 [FLog::Output] CrashReporter Start
+2022-06-20T00:15:28.812Z,0.812848,0fa4,6 [FLog::Output] The crash upload percentage is 10
+2022-06-20T00:15:28.812Z,0.812848,0fa4,6 [FLog::Output] Authentication request URL: https://auth.roblox.com/v1/authentication-ticket/redeem ticket: 6waPkL5AD6ET2p1yt4wzOjnIuKzVEDt7JFSLp0rVNl6xziyPB4FdDVGb76SpvD5TYc2Y7HllCzD8V9nVJr2dS24dxbv-lBS1CNv7edeLUSlhT3fHggxeZ7yO_8nPByZPd1zf2AqRyH8O6a9cNF-SYQRvEp9ttjKG4owL0gEXUFg6a9_slAGRG5sEPP7gPxAyk71XHtewDGcAYto0b2qf_pmeA5m7b58RbsRV1-70r0w
+2022-06-20T00:15:28.816Z,0.816849,18f0,6 [FLog::Output] WatcherThread Started
+2022-06-20T00:15:30.472Z,2.472835,0fa4,6 [FLog::Error] Error: Important !Loading shader files
+2022-06-20T00:15:30.473Z,2.473836,0fa4,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T00:15:30.475Z,2.475838,0fa4,6 [FLog::Output] Info: Initializing new game
+2022-06-20T00:15:30.507Z,2.507878,0fa4,6 [FLog::Output] account = UA-43420590-14, schedule = 500
+2022-06-20T00:15:30.508Z,2.508879,0fa4,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello Avatars!
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello! <Tap tap> Is this thing on?
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello World will suffice.
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello from a lush garden!
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello! Happy to meet you.
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello Cool Kids!
+2022-06-20T00:15:31.091Z,3.091310,0fa4,6 [FLog::Output] Hello! Let's hope this works.
+2022-06-20T00:15:31.092Z,3.092304,0fa4,6 [FLog::Output] Hello from the other side of the galaxy!
+2022-06-20T00:15:31.665Z,3.665543,0fa4,6 [FLog::VR] VR: VR_IsSteamVRRunning returned false
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [FLog::Graphics] D3D11 Adapter: VMware SVGA 3D
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [FLog::Graphics] D3D11 Adapter: Vendor 15ad Device 0405 VRAM 4 RAM 1023
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: ThreadSafe 0 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 ConstBuffers 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Framebuffer: MRT 8 MSAA 8 Stencil 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 1 DepthFloat 1 DepthClamp 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Border Color 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2022-06-20T00:15:31.728Z,3.728446,0fa4,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 0
+2022-06-20T00:15:31.730Z,3.730443,0fa4,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2022-06-20T00:15:31.730Z,3.730443,0fa4,6 [channel] Caps: Texture: Size 16384 Units 16
+2022-06-20T00:15:31.730Z,3.730443,0fa4,6 [channel] Caps: ConstantBufferSize 65536
+2022-06-20T00:15:31.730Z,3.730443,0fa4,6 [channel] Caps: 32bIdx 1 Memoryless 0 mediump 0
+2022-06-20T00:15:31.731Z,3.731441,0fa4,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2022-06-20T00:15:31.825Z,3.825678,0fa4,6 [FLog::Graphics] Video memory size: 1077403648
+2022-06-20T00:15:32.087Z,4.087264,0fa4,6 [FLog::Graphics] Loaded 676 shaders from pack d3d11 variant defaultRoughnessRemap (8598140 bytes)
+2022-06-20T00:15:32.087Z,4.087264,0fa4,6 [FLog::Graphics] Compiled 676 shaders in 260 ms
+2022-06-20T00:15:33.461Z,5.461024,0fa4,6 [FLog::Output] Studio D3D9 GPU: VMware SVGA 3D
+2022-06-20T00:15:33.461Z,5.461024,0fa4,6 [FLog::Output] Studio D3D9 GPU: Vendor 15ad Device 0405
+2022-06-20T00:15:33.461Z,5.461024,0fa4,6 [FLog::Output] Studio D3D9 Driver: vm3dum_loader.dll 8.17.2.14
+2022-06-20T00:15:33.462Z,5.462006,0fa4,6 [FLog::Output] ESGamePerfMonitor GPU: Vendor 000015ad Device 00000405
+2022-06-20T00:15:33.462Z,5.462006,0fa4,6 [FLog::Output] ESGamePerfMonitor GPU: SubSys 040515ad Revision 00000000
+2022-06-20T00:15:33.462Z,5.462006,0fa4,6 [FLog::Output] ESGamePerfMonitor GPU: DedicatedVidMem 4194304 DedicatedSysMem 1073209344 SharedSystemMemory 97888833026129920
+2022-06-20T00:15:33.474Z,5.474927,1ccc,6 [FLog::Output] PlaceLauncher URL : https://assetgame.roblox.com/game/PlaceLauncher.ashx?request=RequestGame&browserTrackerId=136867614413&placeId=6737970321&isPlayTogetherGame=false
+2022-06-20T00:15:33.474Z,5.474927,1ccc,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2022-06-20T00:15:33.474Z,5.474927,1ccc,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":6737970321,"gameJoinAttemptId":"CCABF753-4808-4743-8B1C-B5084C32CEAA","browserTrackerId":"136867614413"}
+2022-06-20T00:15:33.475Z,5.475928,1ccc,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2022-06-20T00:15:33.475Z,5.475928,1ccc,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2022-06-20T00:15:33.502Z,5.502956,0fa4,6 [FLog::Graphics] LayeredClothingMode updated: LC=1 SkeletonAPI=1 HSR=1 TC2=1
+2022-06-20T00:15:34.428Z,6.428450,1970,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"41bf31e5-ebb5-410b-9112-28002232ec7c","status":2,"joinScriptUrl":"https://assetgame.roblox.com/Game/Join.ashx?ticketVersion=2&ticket=%7b%22UserId%22%3a3635455297%2c%22UserName%22%3a%22ftcsvisgreat%22%2c%22DisplayName%22%3a%22ftcsvisgreat%22%2c%22CharacterFetchUrl%22%3a%22https%3a%2f%2fapi.roblox.com%2fv1.1%2favatar-fetch%2f%3fplaceId%3d6737970321%26userId%3d3635455297%22%2c%22GameId%22%3a%2241bf31e5-ebb5-410b-9112-28002232ec7c%22%2c%22PlaceId%22%3a6737970321%2c%22UniverseId%22%3a2549475383%2c%22ServerId%22%3a121025%2c%22ServerPort%22%3a62336%2c%22IsTeleport%22%3afalse%2c%22FollowUserId%22%3anull%2c%22TimeStamp%22%3a%226%2f19%2f2022+7%3a15%3a35+PM%22%2c%22CharacterAppearanceId%22%3a3635455297%2c%22AlternateName%22%3anull%2c%22JoinTypeId%22%3a10%2c%22MatchmakingDecisionId%22%3a%22cdb3dd9f-e1cd-43bb-8060-547659cc0294%22%2c%22GameJoinMetadata%22%3a%7b%22JoinSource%22%3a0%2c%22RequestType%22%
+2022-06-20T00:15:34.428Z,6.428450,1970,6 [FLog::GameJoinUtil] Default handler, game join succeeded.
+2022-06-20T00:15:34.428Z,6.428450,1970,6 [FLog::GameJoinUtil] GameJoinUtil::processing join parameters
+2022-06-20T00:15:34.428Z,6.428450,0dc8,7 [FLog::Network] NetworkClient:Create
+2022-06-20T00:15:34.430Z,6.430444,0dc8,10 [DFLog::KeyRing] Parsed config created at: 19:56 11/23/2021.
+2022-06-20T00:15:34.466Z,6.466074,0dc8,6 [FLog::Output] ! Joining game '41bf31e5-ebb5-410b-9112-28002232ec7c' place 6737970321 at 128.116.74.217
+2022-06-20T00:15:34.467Z,6.467078,0dc8,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: placeid:6737970321, join_time:0.95551748499961863814, universeid:2549475383, referral_page:, sid:4e1adc9a-3ebf-4423-bfc1-1ff895d9399c, clienttime:1655684134.3580000401, userid:3635455297, 
+2022-06-20T00:15:34.478Z,6.478128,0dc8,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2022-06-20T00:15:34.478Z,6.478128,0dc8,7 [FLog::Network] Server Address = 128.116.74.217, Port = 62336
+2022-06-20T00:15:34.483Z,6.483151,0dc8,7 [FLog::Network] binding socket on inaddr_any:0
+
+2022-06-20T00:15:34.517Z,6.517306,0dc8,6 [FLog::Output] Connecting to 128.116.74.217:62336
+2022-06-20T00:15:34.517Z,6.517306,0dc8,7 [FLog::Network] Connecting to server, IP(inet_addr): 3645535360 Port: 62336
+2022-06-20T00:15:34.551Z,6.551461,1970,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T00:15:34.551Z,6.551461,1970,7 [FLog::Network] Set latency from Ixp live response after 73.332588 ms
+2022-06-20T00:15:34.730Z,6.730768,0acc,6 [FLog::Output] Connection accepted from 128.116.74.217|62336
+2022-06-20T00:15:34.731Z,6.731777,0acc,7 [FLog::Network] serverId: 128.116.74.217|62336
+2022-06-20T00:15:34.732Z,6.732786,0acc,7 [FLog::Network] Replicator created for player 128.116.74.217|62336
+2022-06-20T00:15:34.732Z,6.732786,0acc,7 [FLog::Network] Replicator created: 1771B0E8
+2022-06-20T00:15:34.997Z,6.997644,0dc8,7 [FLog::Network] Time taken to initialize schema = 40.780701 ms
+2022-06-20T00:15:34.997Z,6.997644,0dc8,7 [FLog::Network] Assigned peer id = 98
+2022-06-20T00:15:34.997Z,6.997644,0dc8,7 [FLog::Network] Join snapshot timer: 0.194000
+2022-06-20T00:15:35.507Z,7.507076,1970,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T00:15:37.573Z,9.573738,0acc,6 [FLog::Output] [LocalSafeSpawnMgr] Disabled
+2022-06-20T00:15:37.592Z,9.592727,0acc,6 [FLog::Output] [LocalStats] RecordInterval=2 SendInterval=15 LagSpikeThreshold=0.4 LagSpikeIgnoreTime=30 LagBISendCountThreshold=10 LagBISendRateThreshold=0.1
+2022-06-20T00:15:37.625Z,9.625707,0acc,6 [FLog::Output] SpawnLocationProtector in place
+2022-06-20T00:15:37.627Z,9.627706,0acc,6 [FLog::Output] JackEvent is active in client
+2022-06-20T00:15:37.637Z,9.637699,0acc,6 [FLog::Output] [LOD] PC
+2022-06-20T00:15:37.673Z,9.673466,0acc,6 [FLog::Output] [ClientObjectGrid] GridSize=350 (PC) TaskFrameTimeMax=0.002
+2022-06-20T00:15:37.737Z,9.737898,0acc,6 [FLog::Output] Hello world!
+2022-06-20T00:15:37.902Z,9.902843,0acc,6 [FLog::Warning] Warning: Extra_FontColorList visible : false
+2022-06-20T00:15:37.927Z,9.927925,0acc,6 [FLog::Output] Server RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T00:15:37.927Z,9.927925,0acc,6 [FLog::Output] Server Prefix: 0.531.0.5310423_20220619T232652Z_RCC_0157f
+2022-06-20T00:15:37.978Z,9.978673,0acc,6 [FLog::Output] [ClientShared] ready(30 modules).
+2022-06-20T00:15:38.290Z,10.290473,0fa4,6 [FLog::Graphics] Future is bright shadows
+2022-06-20T00:15:38.751Z,10.751529,0fa4,6 [FLog::Graphics] SolidTextures::initSolidTextures()
+2022-06-20T00:15:38.751Z,10.751529,0fa4,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+2022-06-20T00:15:41.729Z,13.729279,0dc8,6 [FLog::Output] [Current Language] en-us
+2022-06-20T00:15:42.581Z,14.581619,0acc,6 [FLog::Output] NotifyVehiclesRE Init!
+2022-06-20T00:15:42.610Z,14.610835,0acc,6 [FLog::Warning] Warning: Character Name ftcsvisgreat
+2022-06-20T00:15:43.645Z,15.645294,0acc,6 [FLog::Output] [LOD] LocalLodMgr disabled=false ModTransparency=false
+2022-06-20T00:15:43.856Z,15.856252,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'ReplicatedStorage:WaitForChild("TopiaSubmarineInfo")'
+2022-06-20T00:15:43.856Z,15.856252,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:43.856Z,15.856252,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalUboatTweenMgr', Line 2
+2022-06-20T00:15:43.856Z,15.856252,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:43.859Z,15.859253,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.PublicTransport.topia_airship.Carriage_1.Body.Furniture.WC.Doorframe.Model:WaitForChild("AutoArea")'
+2022-06-20T00:15:43.859Z,15.859253,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:43.859Z,15.859253,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.LocalDoorTransparencyHide', Line 7
+2022-06-20T00:15:43.860Z,15.860253,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:43.860Z,15.860253,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.SkyWheel:WaitForChild("main_skywheel_001")'
+2022-06-20T00:15:43.860Z,15.860253,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:43.860Z,15.860253,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit', Line 117
+2022-06-20T00:15:43.860Z,15.860253,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:43.861Z,15.861254,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'ReplicatedStorage:WaitForChild("TopiaAirshipInfo")'
+2022-06-20T00:15:43.861Z,15.861254,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:43.861Z,15.861254,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalAirshipTweenMgr', Line 2
+2022-06-20T00:15:43.862Z,15.862254,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:46.664Z,18.664606,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:46.665Z,18.665609,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:46.665Z,18.665609,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerGui.DialogJob.DialogJob', Line 15
+2022-06-20T00:15:46.665Z,18.665960,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:46.665Z,18.665960,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:46.666Z,18.666958,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:46.666Z,18.666958,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerGui.DialogBackpack.DialogBackpack', Line 24
+2022-06-20T00:15:46.666Z,18.666958,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:46.666Z,18.666958,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:46.666Z,18.666958,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:46.667Z,18.667953,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerGui.DialogVehicle.DialogVehicle', Line 17
+2022-06-20T00:15:46.667Z,18.667953,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:47.043Z,19.043205,0acc,6 [FLog::Output] [Loading] RequestQueueWait timeout (5.0s). RequestMax=6 RequestQueueSize=3
+2022-06-20T00:15:47.193Z,19.193361,0acc,6 [FLog::Output] Cur Area is : Base
+2022-06-20T00:15:47.657Z,19.657917,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:47.657Z,19.657917,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:47.657Z,19.657917,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerGui.DialogAvatar.DialogAvatar', Line 3
+2022-06-20T00:15:47.659Z,19.659899,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:47.659Z,19.659899,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("Runes")'
+2022-06-20T00:15:47.659Z,19.659899,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:47.659Z,19.659899,0dc8,6 [FLog::Output] Info: Script 'Workspace.ftcsvisgreat.LocalRuneCharacter', Line 2
+2022-06-20T00:15:47.659Z,19.659899,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:47.766Z,19.766720,0dc8,6 [FLog::Output] [LocalAvatarMain] OnCharacterAdded
+2022-06-20T00:15:47.976Z,19.976067,0dc8,6 [FLog::Output] [ClientPartyFXMgr] started.
+2022-06-20T00:15:47.979Z,19.979067,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:47.980Z,19.980066,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:47.980Z,19.980066,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:47.980Z,19.980066,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:47.980Z,19.980066,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:47.981Z,19.981068,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:47.981Z,19.981068,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:47.983Z,19.983067,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.113Z,20.113852,0dc8,6 [FLog::Output] [StreamingLod] disabled=false
+2022-06-20T00:15:48.116Z,20.116848,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:48.116Z,20.116848,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:48.117Z,20.117847,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:48.117Z,20.117847,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.118Z,20.118845,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:48.118Z,20.118845,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:48.118Z,20.118845,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:48.118Z,20.118845,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.260Z,20.260109,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:48.260Z,20.260109,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:48.260Z,20.260109,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:48.260Z,20.260109,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.511Z,20.511606,0dc8,6 [FLog::Output] LocalGyZombieMgr started
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("SharedOwnToolsReady")'
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.LocalScriptAttachUnit.TreasureFXControl', Line 25
+2022-06-20T00:15:48.515Z,20.515589,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:48.654Z,20.654526,0dc8,6 [FLog::Output] [LocalStreaming] HideUnloadDelay=30
+2022-06-20T00:15:48.655Z,20.655525,0dc8,6 [FLog::Output] [TranslationHelper] InitTranslator for LocalPlayer cost 11.127
+2022-06-20T00:15:48.655Z,20.655525,0dc8,6 [FLog::Output] [TranslationHelper] InitTranslator for fallback cost 0.000
+2022-06-20T00:15:49.043Z,21.043461,0acc,6 [FLog::Output] Info: TestService.CarClientMgr(0): Car Client Mgr Init Complete
+2022-06-20T00:15:49.201Z,21.201328,0dc8,6 [FLog::Output] ParachuteJumping SwitchState: Start
+2022-06-20T00:15:49.201Z,21.201328,0dc8,6 [FLog::Output] ParachuteJumping SwitchState: Idle
+2022-06-20T00:15:51.536Z,23.536695,0dc8,6 [FLog::Output] FreecamMode false
+2022-06-20T00:15:51.642Z,23.642168,0dc8,6 [FLog::Output] [Loading] all done (16.0s).
+2022-06-20T00:15:51.965Z,23.965578,0acc,6 [FLog::Output] ClientPartyLauncher started.
+2022-06-20T00:15:52.387Z,24.387609,0acc,6 [FLog::Output] [ClientPlayerData] load data form server.
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.CityStation.Station_2.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.CityStation.Station_2.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.ForestStation.Station_3.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.ForestStation.Station_3.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.SnowStation.Station_4.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Art.Train.SnowStation.Station_4.trainstation.Build.dianti.Escalator.1:WaitForChild("TriggerModule")'
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:15:53.111Z,25.111313,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:53.575Z,25.575703,0dc8,6 [FLog::Output] ClientRPTeamLauncher start
+2022-06-20T00:15:53.582Z,25.582766,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'ReplicatedStorage.Remotes:WaitForChild("DropGiftBoxRE")'
+2022-06-20T00:15:53.583Z,25.583775,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:53.584Z,25.584784,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.SanataGiftBoxMgr', Line 3
+2022-06-20T00:15:53.585Z,25.585793,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:55.325Z,27.325012,0acc,6 [FLog::Output] [LocalBlindBoxScript] OnCountChanged: BB_World012 0 1
+2022-06-20T00:15:55.325Z,27.325012,0acc,6 [FLog::Output] [LocalBlindBoxScript] OnCountChanged: BB_World016 0 1
+2022-06-20T00:15:55.326Z,27.326021,0acc,6 [FLog::Output] [LocalBlindBoxScript] OnCountChanged: BB_World001 0 1
+2022-06-20T00:15:55.326Z,27.326021,0acc,6 [FLog::Output] [LocalBlindBoxScript] OnCountChanged: BB_World018 0 1
+2022-06-20T00:15:55.327Z,27.327028,0acc,6 [FLog::Output] [LocalBlindBoxScript] OnCountChanged: BB_World017 0 1
+2022-06-20T00:15:56.762Z,28.762791,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.LilR1chie:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Leaha10la:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.pandabear6680:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.dhjfjbv:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.764Z,28.764793,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Cho_Princess:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.LeyIsTheBest6:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.767Z,28.767643,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.768Z,28.768652,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.768Z,28.768652,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.768Z,28.768652,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.janielepontes382:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.768Z,28.768652,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.lillivnvgrace:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.LilFri3d:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.769Z,28.769661,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Jack_Supports101:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.JD11773nd:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.771Z,28.771681,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Hsrjfjdkdjd:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.princessl917:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.princessavaalani:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.772Z,28.772690,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.Monika_Official010:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.XxUndead_girlxX:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 291
+2022-06-20T00:15:56.774Z,28.774708,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:16:07.311Z,39.311546,0dc8,6 [FLog::Output] Can not find translation key =  K_AREA_MAP_
+2022-06-20T00:16:07.431Z,39.431690,1970,6 [FLog::Error] Asset (Animation) "rbxassetid://6737970321" load failed in AnimationIdle.AnimationId: Animation failed to load
+2022-06-20T00:16:07.512Z,39.512867,1970,12 [DFLog::HttpTraceError] HttpResponse(#1014 365E9F68) time:13799.5ms (net:336.6ms callback:81.2ms timeInRetryQueue:0.0ms)status:404 Not Found bodySize:63 url:"https://assetdelivery.roblox.com/v1/asset?id&serverplaceid=6737970321" ip:128.116.125.3 external:0 numberOfTimesRetried:0
+2022-06-20T00:16:07.843Z,39.843792,0acc,6 [FLog::Output] Can not find translation key =  
+2022-06-20T00:16:08.461Z,40.461800,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'mall_escalator_001down:WaitForChild("TriggerModule")'
+2022-06-20T00:16:08.461Z,40.461800,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:16:08.461Z,40.461800,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:16:08.461Z,40.461800,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:16:08.462Z,40.462799,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'mall_escalator_001up:WaitForChild("TriggerModule")'
+2022-06-20T00:16:08.462Z,40.462799,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:16:08.462Z,40.462799,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.EscalatorInteract', Line 84
+2022-06-20T00:16:08.462Z,40.462799,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:16:08.954Z,40.954750,0acc,6 [FLog::Output] [BroadCast Message]You are not stay in valid place. ftcsvisgreat
+2022-06-20T00:16:09.053Z,41.053478,0dc8,6 [FLog::Output] Can not find translation key =  K_GAME_FISHING_GOT_FISH
+2022-06-20T00:16:09.055Z,41.055477,0dc8,6 [FLog::Output] Can not find translation key =  K_EXACT_CONGRATULATIONS_EXCLAMATION
+2022-06-20T00:16:09.756Z,41.756374,0dc8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat:WaitForChild("ForbidToolList")'
+2022-06-20T00:16:09.757Z,41.757381,0dc8,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:16:09.757Z,41.757381,0dc8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerGui.DialogBackpack.DialogBackpack.Cooldown', Line 30
+2022-06-20T00:16:09.757Z,41.757381,0dc8,6 [FLog::Output] Info: Stack End
+2022-06-20T00:16:19.735Z,51.735256,0dc8,6 [FLog::Output] [AssetPreloader] done. 96 assets cost 30.287s.
+2022-06-20T00:16:35.142Z,67.142822,0fa4,6 [FLog::Error] Asset (Image) "" load failed in Workspace.Art.school.LOD.schoolcupboard.schoolcupboard.right.Photo.Decal.Texture: Unexpected URL
+2022-06-20T00:16:37.174Z,69.174332,1e48,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=1" load failed in Workspace.Art.SmallShop.RootPart.ClothingStore.LOD.ModelCloth.cloth010.Humanoid.Clothes: Request failed
+2022-06-20T00:16:40.329Z,72.329376,0dc8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.330Z,72.330368,0dc8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.331Z,72.331367,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.332Z,72.332367,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.333Z,72.333366,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.333Z,72.333366,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072921 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072921 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.334Z,72.334366,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.335Z,72.335365,0dc8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072976 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.335Z,72.335365,0dc8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072976 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.335Z,72.335365,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.335Z,72.335365,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.336Z,72.336357,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.336Z,72.336357,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.368Z,72.368561,0dc8,6 [FLog::Output] Hidden Surface Removal data for Head in Cho_Princess rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for Head in Cho_Princess rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for RightHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174056 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.369Z,72.369576,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174056 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.370Z,72.370583,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:16:40.370Z,72.370583,0dc8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.685Z,120.685493,0acc,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.688Z,120.688461,0acc,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.690Z,120.690437,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.693Z,120.693398,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.696Z,120.696358,0acc,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.696Z,120.696358,0acc,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.696Z,120.696358,0acc,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.696Z,120.696358,0acc,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.699Z,120.699318,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.699Z,120.699318,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.700Z,120.700310,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.700Z,120.700310,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.700Z,120.700310,0acc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072921 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.700Z,120.700310,0acc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072921 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.701Z,120.701294,0acc,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.701Z,120.701294,0acc,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.701Z,120.701294,0acc,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.704Z,120.704262,0acc,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.706Z,120.706238,0acc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072976 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.707Z,120.707222,0acc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9284072976 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.708Z,120.708206,0acc,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.710Z,120.710182,0acc,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.713Z,120.713150,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.713Z,120.713150,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.714Z,120.714134,0acc,6 [FLog::Output] Hidden Surface Removal data for Head in Cho_Princess rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T00:17:28.718Z,120.718086,0acc,6 [FLog::Output] Hidden Surface Removal data for Head in Cho_Princess rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T00:17:28.719Z,120.719070,0acc,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.719Z,120.719070,0acc,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.720Z,120.720062,0acc,6 [FLog::Output] Hidden Surface Removal data for RightHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.721Z,120.721046,0acc,6 [FLog::Output] Hidden Surface Removal data for RightHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.723Z,120.723022,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174056 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.724Z,120.724007,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997174056 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.725Z,120.725983,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:28.726Z,120.726974,0acc,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Cho_Princess https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T00:17:37.886Z,129.886551,0dc8,6 [FLog::Warning] Warning: Lag detected: SpikeCount=8, SpikeRate=0.2222222222222222
+2022-06-20T00:18:23.060Z,175.060623,0acc,6 [FLog::Warning] Warning: Lag detected: SpikeCount=8, SpikeRate=0.11764705882352941
+2022-06-20T00:18:46.999Z,198.999664,0dc8,6 [FLog::Warning] Warning: Lag detected: SpikeCount=14, SpikeRate=0.23333333333333334
+2022-06-20T00:18:50.481Z,202.481476,0acc,6 [FLog::Warning] Warning: [LocalLoopService] Execute Time Overlimit  0.18199729919433594
+2022-06-20T00:18:58.080Z,210.080811,0acc,6 [FLog::Warning] Warning: Infinite yield possible on 'Workspace.pandabear6680:WaitForChild("HumanoidRootPart")'
+2022-06-20T00:18:58.081Z,210.081818,0acc,6 [FLog::Output] Info: Stack Begin
+2022-06-20T00:18:58.081Z,210.081818,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 154 - function OnChangeJobIcon
+2022-06-20T00:18:58.081Z,210.081818,0acc,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.TitleClientMgr.3635455297', Line 276
+2022-06-20T00:18:58.081Z,210.081818,0acc,6 [FLog::Output] Info: Stack End
+2022-06-20T00:20:15.231Z,287.231873,0fa4,6 [DFLog::PerfHistogram] Performance histogram MutexContentionWait
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <1     us : 305
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <3     us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <9     us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <27    us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <81    us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <243   us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <729   us : 0
+2022-06-20T00:20:15.235Z,287.235870,0fa4,6 [DFLog::PerfHistogram]   <2187  us : 0
+2022-06-20T00:20:15.236Z,287.236877,0fa4,6 [DFLog::PerfHistogram]   <6561  us : 0
+2022-06-20T00:20:15.236Z,287.236877,0fa4,6 [DFLog::PerfHistogram]  (larger)   : 0
+2022-06-20T00:20:15.484Z,287.484589,0fa4,7 [FLog::Network] Client:Disconnect
+2022-06-20T00:20:16.075Z,288.075378,0fa4,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] MRD cleanup WorkerCount available: 2, for MRD table size: 69278
+2022-06-20T00:20:16.269Z,288.269470,0fa4,7 [FLog::Network] Time to disconnect replication data: 194.056702
+2022-06-20T00:20:17.119Z,289.119141,0fa4,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T00:20:17.180Z,289.180725,1f4c,7 [FLog::Network] Connection lost
+2022-06-20T00:20:17.182Z,289.182709,1f4c,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:289182, connectionTime 6645
+2022-06-20T00:20:17.182Z,289.182709,1f4c,7 [FLog::Network] Connection lost: AckTimeout 0, IsOutgoingDataWaiting 0
+2022-06-20T00:20:17.182Z,289.182709,1f4c,7 [FLog::Network] Disconnection Notification. Reason: 285
+2022-06-20T00:20:17.647Z,289.647858,0fa4,12 [DFLog::HttpTraceError] HttpResponse(#2382 365D4410) time:517.7ms (net:0.0ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://assetgame.roblox.com/Game/ClientPresence.ashx?version=old&PlaceID=6737970321&GameID=41bf31e5-ebb5-410b-9112-28002232ec7c&UserID=3635455297&disconnect=true" ip: external:0 numberOfTimesRetried:0
+2022-06-20T00:20:17.647Z,289.647858,0fa4,6 [FLog::Output] OnDisconnect http req time:528.70ms (timeout)
+2022-06-20T00:20:17.647Z,289.647858,0fa4,7 [FLog::Network] Replicator destroyed: 1771B0E8
+2022-06-20T00:20:17.896Z,289.896240,0fa4,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T00:20:18.166Z,290.166840,0fa4,6 [FLog::Output] [LocalAvatarMain] OnCharacterRemoving
+2022-06-20T00:20:23.845Z,295.845642,0fa4,7 [FLog::Network] Client:Disconnect
+2022-06-20T00:20:24.726Z,296.726166,0fa4,6 [FLog::Output] Closing Fmod (as 18, ml 0, sl 0).
+2022-06-20T00:20:25.091Z,297.091309,0fa4,6 [FLog::Output] Fmod Closed.
+2022-06-20T00:20:25.097Z,297.097290,0fa4,7 [FLog::Network] NetworkClient:Remove
+2022-06-20T00:20:25.097Z,297.097290,0fa4,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] Destroying MegaReplicator.
+2022-06-20T00:20:33.154Z,305.154480,0fa4,6 [FLog::Error] signalr: new state: 0, message: stop was called
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram] Performance histogram MutexContentionWait
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <1     us : 305
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <3     us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <9     us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <27    us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <81    us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <243   us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <729   us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <2187  us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]   <6561  us : 0
+2022-06-20T00:20:33.155Z,305.155487,0fa4,6 [DFLog::PerfHistogram]  (larger)   : 0
+2022-06-20T00:20:33.424Z,305.424194,0fa4,12 [DFLog::HttpTraceError] HttpResponse(#2451 36039BB8) time:100.9ms (net:100.8ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://client-telemetry.roblox.com" ip: external:0 numberOfTimesRetried:0

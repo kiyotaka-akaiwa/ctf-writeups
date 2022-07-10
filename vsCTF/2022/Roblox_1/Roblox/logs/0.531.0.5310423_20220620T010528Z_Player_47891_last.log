@@ -1,0 +1,852 @@
+2022-06-20T01:05:28.130Z,0.130088,1d94,6 [FLog::Output] RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T01:05:28.131Z,0.131088,1d94,6 [FLog::Output] The channel is production
+2022-06-20T01:05:28.353Z,0.353020,1d94,6 [FLog::Error] Test log: Map check complete and successful!
+2022-06-20T01:05:28.355Z,0.355008,1d94,6 [FLog::Error] Dynamic initializer test result: SUCCESS
+2022-06-20T01:05:28.355Z,0.355008,1d94,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 0 active: 0>
+2022-06-20T01:05:28.384Z,0.384056,1d94,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T01:05:28.751Z,0.751342,1d94,6 [FLog::Output] Loading AppSettings.xml from C:\Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\AppSettings.xml
+2022-06-20T01:05:28.752Z,0.752341,1d94,6 [FLog::Output] setAssetFolder content
+2022-06-20T01:05:28.755Z,0.755338,1d94,6 [FLog::Output] setExtraAssetFolder C:/Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\ExtraContent
+2022-06-20T01:05:29.069Z,1.069201,1d94,6 [FLog::Output] CrashReporter Start
+2022-06-20T01:05:29.070Z,1.070202,1d94,6 [FLog::Output] The crash upload percentage is 10
+2022-06-20T01:05:29.071Z,1.071972,1d94,6 [FLog::Output] Authentication request URL: https://auth.roblox.com/v1/authentication-ticket/redeem ticket: skythhIkxftLPHqbQChXmtBUszXMypXs8bob28Jg88hk9HQvDPEjARG1g9_DGyCF21DEPtzUbilwFlZGNG0XIJfu22Vo4XJIyeIH9z7KWzZyZ_53UtFYrfc1f4C2O7kd56gpkWyyrT1fWtScA17A9nnpca5sf3F1anSbiXRGFYRQBf4NpfaUfJvKtK0gOBzu7DTl-jwj6IZ4t0ni4oZicx2Qq3OAB5_aBzb8QLwZ6_I
+2022-06-20T01:05:29.082Z,1.082957,07dc,6 [FLog::Output] WatcherThread Started
+2022-06-20T01:05:31.122Z,3.122274,1d94,6 [FLog::Error] Error: Important !Loading shader files
+2022-06-20T01:05:31.123Z,3.123275,1d94,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T01:05:31.126Z,3.126277,1d94,6 [FLog::Output] Info: Initializing new game
+2022-06-20T01:05:31.160Z,3.160307,1d94,6 [FLog::Output] account = UA-43420590-14, schedule = 500
+2022-06-20T01:05:31.162Z,3.162309,1d94,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello Avatars!
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello! <Tap tap> Is this thing on?
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello World will suffice.
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello from a lush garden!
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello! Happy to meet you.
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello Cool Kids!
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello! Let's hope this works.
+2022-06-20T01:05:31.478Z,3.478922,1d94,6 [FLog::Output] Hello from the other side of the galaxy!
+2022-06-20T01:05:32.874Z,4.874136,1d94,6 [FLog::VR] VR: VR_IsSteamVRRunning returned false
+2022-06-20T01:05:32.915Z,4.915875,1d94,6 [FLog::Graphics] D3D11 Adapter: VMware SVGA 3D
+2022-06-20T01:05:32.915Z,4.915875,1d94,6 [FLog::Graphics] D3D11 Adapter: Vendor 15ad Device 0405 VRAM 4 RAM 1023
+2022-06-20T01:05:32.917Z,4.917799,1d94,6 [channel] Caps: ThreadSafe 0 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 ConstBuffers 1
+2022-06-20T01:05:32.917Z,4.917799,1d94,6 [channel] Caps: Framebuffer: MRT 8 MSAA 8 Stencil 1
+2022-06-20T01:05:32.917Z,4.917799,1d94,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 1 DepthFloat 1 DepthClamp 1
+2022-06-20T01:05:32.917Z,4.917799,1d94,6 [channel] Caps: Border Color 1
+2022-06-20T01:05:32.917Z,4.917799,1d94,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 0
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: Texture: Size 16384 Units 16
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: ConstantBufferSize 65536
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: 32bIdx 1 Memoryless 0 mediump 0
+2022-06-20T01:05:32.918Z,4.918761,1d94,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2022-06-20T01:05:32.993Z,4.993536,1d94,6 [FLog::Graphics] Video memory size: 1077403648
+2022-06-20T01:05:33.151Z,5.151500,1d94,6 [FLog::Graphics] Loaded 676 shaders from pack d3d11 variant defaultRoughnessRemap (8598140 bytes)
+2022-06-20T01:05:33.151Z,5.151500,1d94,6 [FLog::Graphics] Compiled 676 shaders in 165 ms
+2022-06-20T01:05:33.765Z,5.765108,1d94,6 [FLog::Output] Studio D3D9 GPU: VMware SVGA 3D
+2022-06-20T01:05:33.765Z,5.765108,1d94,6 [FLog::Output] Studio D3D9 GPU: Vendor 15ad Device 0405
+2022-06-20T01:05:33.765Z,5.765108,1d94,6 [FLog::Output] Studio D3D9 Driver: vm3dum_loader.dll 8.17.2.14
+2022-06-20T01:05:33.766Z,5.766108,1d94,6 [FLog::Output] ESGamePerfMonitor GPU: Vendor 000015ad Device 00000405
+2022-06-20T01:05:33.766Z,5.766108,1d94,6 [FLog::Output] ESGamePerfMonitor GPU: SubSys 040515ad Revision 00000000
+2022-06-20T01:05:33.766Z,5.766108,1d94,6 [FLog::Output] ESGamePerfMonitor GPU: DedicatedVidMem 4194304 DedicatedSysMem 1073209344 SharedSystemMemory 97888833026129920
+2022-06-20T01:05:33.777Z,5.777458,23e0,6 [FLog::Output] PlaceLauncher URL : https://assetgame.roblox.com/game/PlaceLauncher.ashx?request=RequestGame&browserTrackerId=136867614413&placeId=3851622790&isPlayTogetherGame=false
+2022-06-20T01:05:33.777Z,5.777458,23e0,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2022-06-20T01:05:33.777Z,5.777458,23e0,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":3851622790,"gameJoinAttemptId":"DF6F2711-3680-405B-ADE5-1EC4BDC40907","browserTrackerId":"136867614413"}
+2022-06-20T01:05:33.779Z,5.779445,23e0,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2022-06-20T01:05:33.779Z,5.779445,23e0,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2022-06-20T01:05:33.803Z,5.803296,1d94,6 [FLog::Graphics] LayeredClothingMode updated: LC=1 SkeletonAPI=1 HSR=1 TC2=1
+2022-06-20T01:05:34.855Z,6.855933,0950,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"90af263d-57ae-413b-9f84-25e2787d8a86","status":2,"joinScriptUrl":"https://assetgame.roblox.com/Game/Join.ashx?ticketVersion=2&ticket=%7b%22UserId%22%3a3635455297%2c%22UserName%22%3a%22ftcsvisgreat%22%2c%22DisplayName%22%3a%22ftcsvisgreat%22%2c%22CharacterFetchUrl%22%3a%22https%3a%2f%2fapi.roblox.com%2fv1.1%2favatar-fetch%2f%3fplaceId%3d3851622790%26userId%3d3635455297%22%2c%22GameId%22%3a%2290af263d-57ae-413b-9f84-25e2787d8a86%22%2c%22PlaceId%22%3a3851622790%2c%22UniverseId%22%3a1318971886%2c%22ServerId%22%3a129571%2c%22ServerPort%22%3a54587%2c%22IsTeleport%22%3afalse%2c%22FollowUserId%22%3anull%2c%22TimeStamp%22%3a%226%2f19%2f2022+8%3a05%3a36+PM%22%2c%22CharacterAppearanceId%22%3a3635455297%2c%22AlternateName%22%3anull%2c%22JoinTypeId%22%3a10%2c%22MatchmakingDecisionId%22%3a%22a5b51328-e321-446a-9502-16aed49f65c7%22%2c%22GameJoinMetadata%22%3a%7b%22JoinSource%22%3a0%2c%22RequestType%22%
+2022-06-20T01:05:34.856Z,6.856927,0950,6 [FLog::GameJoinUtil] Default handler, game join succeeded.
+2022-06-20T01:05:34.856Z,6.856927,0950,6 [FLog::GameJoinUtil] GameJoinUtil::processing join parameters
+2022-06-20T01:05:34.856Z,6.856927,17c4,7 [FLog::Network] NetworkClient:Create
+2022-06-20T01:05:34.857Z,6.857922,17c4,10 [DFLog::KeyRing] Parsed config created at: 19:56 11/23/2021.
+2022-06-20T01:05:34.951Z,6.951952,17c4,6 [FLog::Output] ! Joining game '90af263d-57ae-413b-9f84-25e2787d8a86' place 3851622790 at 128.116.76.246
+2022-06-20T01:05:34.953Z,6.953969,17c4,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: placeid:3851622790, join_time:1.0804642730021445374, universeid:1318971886, referral_page:, sid:ac8312cb-be2c-4293-89f4-0a79e605ff7d, clienttime:1655687135.6019999981, userid:3635455297, 
+2022-06-20T01:05:34.983Z,6.983221,17c4,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2022-06-20T01:05:34.983Z,6.983221,17c4,7 [FLog::Network] Server Address = 128.116.76.246, Port = 54587
+2022-06-20T01:05:34.986Z,6.986219,17c4,7 [FLog::Network] binding socket on inaddr_any:0
+
+2022-06-20T01:05:35.012Z,7.012208,17c4,6 [FLog::Output] Connecting to 128.116.76.246:54587
+2022-06-20T01:05:35.013Z,7.013208,17c4,7 [FLog::Network] Connecting to server, IP(inet_addr): 4132205696 Port: 54587
+2022-06-20T01:05:35.043Z,7.043195,0950,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T01:05:35.043Z,7.043195,0950,7 [FLog::Network] Set latency from Ixp live response after 59.974201 ms
+2022-06-20T01:05:35.230Z,7.230690,17c4,6 [FLog::Output] Connection accepted from 128.116.76.246|54587
+2022-06-20T01:05:35.231Z,7.231697,17c4,7 [FLog::Network] serverId: 128.116.76.246|54587
+2022-06-20T01:05:35.231Z,7.231697,17c4,7 [FLog::Network] Replicator created for player 128.116.76.246|54587
+2022-06-20T01:05:35.233Z,7.233711,17c4,7 [FLog::Network] Replicator created: 18739088
+2022-06-20T01:05:35.377Z,7.377813,17c4,7 [FLog::Network] call to onreceive before physicsReceiver is initialized are ready, dropping packet
+2022-06-20T01:05:35.468Z,7.468451,17c4,7 [FLog::Network] call to onreceive before physicsReceiver is initialized are ready, dropping packet
+2022-06-20T01:05:35.475Z,7.475803,17c4,7 [FLog::Network] Time taken to initialize schema = 8.276800 ms
+2022-06-20T01:05:35.478Z,7.478805,17c4,7 [FLog::Network] Assigned peer id = 20108
+2022-06-20T01:05:35.478Z,7.478805,17c4,7 [FLog::Network] Join snapshot timer: 0.159600
+2022-06-20T01:05:36.039Z,8.039361,0950,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T01:05:37.227Z,9.227216,1bf8,6 [FLog::Output] Server RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T01:05:37.227Z,9.227216,1bf8,6 [FLog::Output] Server Prefix: 0.531.0.5310423_20220619T134426Z_RCC_20ea5
+2022-06-20T01:05:38.966Z,10.966789,1d94,6 [FLog::Graphics] Future is bright shadows
+2022-06-20T01:05:39.441Z,11.441278,1d94,6 [FLog::Error] Asset (Image) " " load failed in Players.ftcsvisgreat.PlayerGui.Hotbar.Hotbar.Hotbar.Background.Image: Unexpected URL
+2022-06-20T01:05:39.455Z,11.455452,1d94,6 [FLog::Graphics] SolidTextures::initSolidTextures()
+2022-06-20T01:05:39.455Z,11.455452,1d94,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+2022-06-20T01:05:40.150Z,12.150743,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.150Z,12.150743,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.151Z,12.151769,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.151Z,12.151769,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.152Z,12.152793,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.152Z,12.152793,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.154Z,12.154843,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.156Z,12.156893,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.158Z,12.158942,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.158Z,12.158942,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.158Z,12.158942,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.158Z,12.158942,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.158Z,12.158942,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.159Z,12.159967,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.159Z,12.159967,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.159Z,12.159967,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.162Z,12.162017,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.162Z,12.162017,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.162Z,12.162017,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.162Z,12.162017,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.746Z,12.746711,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.746Z,12.746711,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.746Z,12.746711,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.747Z,12.747705,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.747Z,12.747705,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.748Z,12.748697,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.748Z,12.748697,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.748Z,12.748697,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.748Z,12.748697,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.749Z,12.749691,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.749Z,12.749691,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.749Z,12.749691,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.749Z,12.749691,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.749Z,12.749691,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.749Z,12.749691,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.750Z,12.750685,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.750Z,12.750685,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.750Z,12.750685,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.987Z,12.987954,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.988Z,12.988959,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.989Z,12.989964,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.990Z,12.990969,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:40.990Z,12.990969,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.994Z,12.994987,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:40.998Z,12.998001,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.098Z,13.098775,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.098Z,13.098775,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.099Z,13.099782,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.099Z,13.099782,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.100Z,13.100789,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.100Z,13.100789,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.100Z,13.100789,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.100Z,13.100789,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.100Z,13.100789,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.101Z,13.101796,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.101Z,13.101796,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:41.101Z,13.101796,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:41.101Z,13.101796,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.102Z,13.102803,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.102Z,13.102803,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.228Z,13.228382,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.229Z,13.229368,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:41.447Z,13.447685,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:41.447Z,13.447685,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.536Z,13.536080,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.642Z,13.642040,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:41.717Z,13.717401,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:42.600Z,14.600397,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:42.982Z,14.982233,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:42.984Z,14.984230,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.040Z,15.040141,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.094Z,15.094293,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.094Z,15.094293,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.172Z,15.172169,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.255Z,15.255804,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.255Z,15.255804,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.473Z,15.473397,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.473Z,15.473397,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.539Z,15.539922,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.539Z,15.539922,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.541Z,15.541917,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.601Z,15.601570,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.756Z,15.756480,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.756Z,15.756480,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.758Z,15.758459,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:43.824Z,15.824027,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495280 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495280 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495270 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495270 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495271 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495271 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.825Z,15.825045,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495273 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495273 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495303 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495303 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495385 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495385 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495364 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495364 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495362 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.827Z,15.827080,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495362 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.828Z,15.828097,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495382 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.828Z,15.828097,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495382 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.828Z,15.828097,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495330 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.828Z,15.828097,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495330 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.828Z,15.828097,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495379 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495379 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495376 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495376 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495328 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495328 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495301 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in ikertheman9 https://assetdelivery.roblox.com/v1/asset/?id=8650495301 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.829Z,15.829114,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in ikertheman9 rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:05:43.830Z,15.830132,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in ikertheman9 rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:05:43.830Z,15.830132,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6954352113 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.830Z,15.830132,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6954352113 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.831Z,15.831149,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8861766183 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.831Z,15.831149,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8861766183 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:05:43.979Z,15.979198,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:43.979Z,15.979198,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:44.057Z,16.057526,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:45.113Z,17.113707,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:45.113Z,17.113707,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:45.326Z,17.326504,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:45.385Z,17.385687,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:45.761Z,17.761511,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:46.576Z,18.576248,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:46.576Z,18.576248,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:46.903Z,18.903751,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:47.131Z,19.131376,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:47.326Z,19.326471,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:47.521Z,19.521410,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:47.522Z,19.522409,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:47.522Z,19.522409,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:47.698Z,19.698700,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:47.886Z,19.886229,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:48.095Z,20.095600,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:48.095Z,20.095600,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:48.160Z,20.160706,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:48.661Z,20.661739,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:49.024Z,21.024094,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:49.024Z,21.024094,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:49.565Z,21.565454,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.054Z,22.054354,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.489Z,22.489008,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.602Z,22.602245,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.602Z,22.602245,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:50.602Z,22.602245,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:50.733Z,22.733265,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.942Z,22.942381,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:50.942Z,22.942381,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:51.038Z,23.038502,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:51.599Z,23.599888,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:51.740Z,23.740498,1d44,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=630062557" load failed in Workspace.Qpwertucs.Humanoid.Clothes: Failed to resolve texture format | 76 65 72 73 69 6f 6e 20 32 2e 30 30 0a 0c 00 24 0c ec 02 00 00 68 01 00 00 dd fe 94 be 40 54 87 be a2 76 07 3f ee 29 21 bf 3f fe 06 3d 3a b9 46 3f 00 7b 0f 3c 64 e5 63 3f 00 00 00 00 8a 61 55     version 2.00...$.ì...h...Ýþ”¾@T‡¾¢v.?î)!¿?þ.=:¹F?.{.<dåc?....ŠaU
+2022-06-20T01:05:51.880Z,23.880289,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:51.933Z,23.933638,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:51.935Z,23.935652,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:51.935Z,23.935652,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:52.132Z,24.132982,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:52.132Z,24.132982,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:52.614Z,24.614466,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:53.997Z,25.997139,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:53.997Z,25.997139,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.059Z,26.059267,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.059Z,26.059267,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:54.061Z,26.061239,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:54.061Z,26.061239,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.172Z,26.172831,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.219Z,26.219692,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.662Z,26.662699,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:54.920Z,26.920469,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:55.104Z,27.104191,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:55.104Z,27.104191,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:55.163Z,27.163725,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:55.163Z,27.163725,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:55.411Z,27.411312,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:55.411Z,27.411312,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:55.966Z,27.966854,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.084Z,28.084383,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.416Z,28.416037,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:56.417Z,28.417042,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:56.461Z,28.461300,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.462Z,28.462307,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.668Z,28.668919,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.768Z,28.768782,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:56.877Z,28.877346,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:57.726Z,29.726675,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:58.180Z,30.180660,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:58.371Z,30.371628,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:58.708Z,30.708754,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:58.821Z,30.821796,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:59.101Z,31.101143,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:59.321Z,31.321497,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:59.321Z,31.321497,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:05:59.430Z,31.430498,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:59.430Z,31.430498,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:05:59.492Z,31.492516,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:00.028Z,32.028564,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:00.029Z,32.029564,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:00.455Z,32.455841,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:00.613Z,32.613842,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:00.613Z,32.613842,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:00.995Z,32.995453,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.118Z,33.118912,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.161Z,33.161037,0950,12 [DFLog::HttpTraceError] HttpResponse(#63 20FAEF60) time:23186.5ms (net:22825.8ms callback:0.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=4678868431&x-cache-split=1318971886" ip:205.185.216.10 external:0 numberOfTimesRetried:0
+2022-06-20T01:06:01.161Z,33.161037,1bf8,6 [FLog::Error] Error: Failed to load sound rbxassetid://4678868431: Unable to download sound data
+2022-06-20T01:06:01.198Z,33.198402,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.312Z,33.312317,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.312Z,33.312317,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.519Z,33.519085,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.760Z,33.760719,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:01.760Z,33.760719,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:01.821Z,33.821182,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:02.180Z,34.180405,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:02.339Z,34.339561,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:02.781Z,34.781269,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:02.874Z,34.874825,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:03.324Z,35.324654,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:03.975Z,35.975731,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:03.975Z,35.975731,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:04.018Z,36.018406,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:04.167Z,36.167805,1c34,6 [FLog::Error] Error: HSRDataContentProvider failed to process https://assetdelivery.roblox.com/v1/asset?id=9231912866 because 'could not fetch'
+2022-06-20T01:06:04.168Z,36.168808,0950,12 [DFLog::HttpTraceError] HttpResponse(#167 23429790) time:20285.5ms (net:2756.0ms callback:1.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=9231912866" ip:23.218.224.87 external:0 numberOfTimesRetried:0
+2022-06-20T01:06:04.230Z,36.230995,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.351Z,37.351452,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.687Z,37.687244,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.688Z,37.688240,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.885Z,37.885212,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.960Z,37.960651,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:05.960Z,37.960651,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:06.040Z,38.040340,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:06.274Z,38.274052,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:06.275Z,38.275059,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:06.277Z,38.277073,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:06.709Z,38.709259,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:06.710Z,38.710255,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:06.866Z,38.866795,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:07.029Z,39.029278,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:07.363Z,39.363655,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:07.363Z,39.363655,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:07.511Z,39.511066,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:08.377Z,40.377167,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:09.008Z,41.008728,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:09.282Z,41.282253,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:09.603Z,41.603886,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:09.864Z,41.864220,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:09.972Z,41.972317,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:10.692Z,42.692837,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:11.032Z,43.032902,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:11.794Z,43.794991,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:11.795Z,43.795990,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:11.795Z,43.795990,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:11.968Z,43.968044,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:12.960Z,44.960899,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.125Z,45.125046,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.125Z,45.125046,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.374Z,45.374226,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.374Z,45.374226,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.593Z,45.593048,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:13.594Z,45.594051,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:13.594Z,45.594051,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.594Z,45.594051,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:13.594Z,45.594051,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:13.594Z,45.594051,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:13.800Z,45.800842,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:14.174Z,46.174114,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:14.344Z,46.344418,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:14.620Z,46.620811,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:14.836Z,46.836735,0950,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=4643568180" load failed in TextureManager::PreloadTexture: Request failed
+2022-06-20T01:06:14.838Z,46.838749,0950,12 [DFLog::HttpTraceError] HttpResponse(#389 1E1CD468) time:13352.6ms (net:4526.1ms callback:2.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=4643568180" ip:23.218.224.80 external:0 numberOfTimesRetried:0
+2022-06-20T01:06:15.053Z,47.053070,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:16.721Z,48.721062,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.048Z,49.048180,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:17.048Z,49.048180,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.463Z,49.463959,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.463Z,49.463959,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.806Z,49.806519,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.806Z,49.806519,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.806Z,49.806519,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.871Z,49.871552,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.873Z,49.873539,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.873Z,49.873539,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.873Z,49.873539,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.873Z,49.873539,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.873Z,49.873539,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.875Z,49.875523,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071039 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071039 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071049 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071049 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071065 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071065 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071082 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071082 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071105 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.884Z,49.884460,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071105 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071119 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=7430071119 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.886Z,49.886448,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=3940335412 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.898Z,49.898365,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in uhhvicc https://assetdelivery.roblox.com/v1/asset/?id=3940335412 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.899Z,49.899357,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=7019479217 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.899Z,49.899357,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=7019479217 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.899Z,49.899357,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=7019479218 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.899Z,49.899357,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=7019479218 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:17.899Z,49.899357,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:18.049Z,50.049343,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.050Z,50.050346,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.135Z,50.135212,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.193Z,50.193295,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.298Z,50.298542,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.486Z,50.486488,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.486Z,50.486488,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.766Z,50.766975,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.962Z,50.962479,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:18.966Z,50.966480,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:18.967Z,50.967480,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:19.164Z,51.164391,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:20.099Z,52.099083,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.099Z,52.099083,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.099Z,52.099083,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:20.099Z,52.099083,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.100Z,52.100086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.100Z,52.100086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.101Z,52.101086,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.102Z,52.102089,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.104Z,52.104095,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.104Z,52.104095,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.104Z,52.104095,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.107Z,52.107105,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.107Z,52.107105,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.109Z,52.109112,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in Xxxpearlkia rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.109Z,52.109112,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in Xxxpearlkia rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.109Z,52.109112,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.110Z,52.110115,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.110Z,52.110115,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=7430070993 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.110Z,52.110115,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=7430070993 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.110Z,52.110115,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:20.112Z,52.112122,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.112Z,52.112122,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.112Z,52.112122,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.112Z,52.112122,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.112Z,52.112122,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.149Z,52.149235,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.150Z,52.150238,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.152Z,52.152245,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.152Z,52.152245,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.152Z,52.152245,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.152Z,52.152245,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.154Z,52.154251,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.155Z,52.155254,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.156Z,52.156258,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.156Z,52.156258,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.156Z,52.156258,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in koala_pop2 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.156Z,52.156258,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9175712120 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.158Z,52.158264,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9175712120 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.158Z,52.158264,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9340511645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.159Z,52.159267,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9340511645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.161Z,52.161274,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.162Z,52.162277,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.163Z,52.163280,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:20.165Z,52.165287,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.166Z,52.166290,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.166Z,52.166290,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.166Z,52.166290,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.167Z,52.167294,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.169Z,52.169300,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.169Z,52.169300,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.169Z,52.169300,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.169Z,52.169300,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.169Z,52.169300,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.170Z,52.170303,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.170Z,52.170502,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.170Z,52.170502,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.170Z,52.170502,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.170Z,52.170502,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.172Z,52.172489,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in darkelf20098 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.174Z,52.174480,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in darkelf20098 rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.174Z,52.174480,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in darkelf20098 rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.174Z,52.174480,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6937034645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.174Z,52.174480,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6937034645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.175Z,52.175476,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:20.175Z,52.175476,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:20.175Z,52.175476,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:20.557Z,52.557922,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.557Z,52.557922,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.557Z,52.557922,1bf8,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=7783843605 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=7783843605 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.558Z,52.558914,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.560Z,52.560905,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=7783843553 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.561Z,52.561897,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=7783843553 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.562Z,52.562893,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.562Z,52.562893,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.562Z,52.562893,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=4812919237 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.562Z,52.562893,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in kohanahenry https://assetdelivery.roblox.com/v1/asset/?id=4812919237 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.562Z,52.562893,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6934021070 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.563Z,52.563889,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6934021070 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.565Z,52.565876,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.567Z,52.567863,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.570Z,52.570160,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.573Z,52.573154,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in lora765432 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in lora765432 rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in lora765432 rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6954352113 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6954352113 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9255309176 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.574Z,52.574150,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9255309176 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:20.576Z,52.576145,1bf8,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:20.576Z,52.576145,1bf8,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:20.727Z,52.727940,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:20.978Z,52.978569,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:20.978Z,52.978569,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:20.978Z,52.978569,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:20.978Z,52.978569,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:21.198Z,53.198647,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:21.404Z,53.404858,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.404Z,53.404858,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.404Z,53.404858,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:21.405Z,53.405861,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.405Z,53.405861,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.405Z,53.405861,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.406Z,53.406864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.407Z,53.407864,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.408Z,53.408867,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.409Z,53.409870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.409Z,53.409870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.409Z,53.409870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.410Z,53.410870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.410Z,53.410870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.410Z,53.410870,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.435Z,53.435921,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.435Z,53.435921,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in longweaher116 https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.436Z,53.436924,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in longweaher116 rbxassetid://8635369204 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:21.436Z,53.436924,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in longweaher116 rbxassetid://8635369204 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:21.436Z,53.436924,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9059105040 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.436Z,53.436924,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9059105040 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:21.444Z,53.444939,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:21.552Z,53.552200,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:21.795Z,53.795372,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:21.796Z,53.796368,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:21.796Z,53.796368,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:23.071Z,55.071846,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:23.228Z,55.228073,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:23.228Z,55.228073,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:23.229Z,55.229103,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:23.482Z,55.482388,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:23.692Z,55.692604,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:23.693Z,55.693607,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:23.942Z,55.942173,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:24.087Z,56.087524,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:24.087Z,56.087524,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:24.539Z,56.539005,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:25.201Z,57.201324,1d44,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=26019070" load failed in Workspace.The Hyper..Humanoid.Clothes: Failed to resolve texture format | 3c 72 6f 62 6c 6f 78 20 78 6d 6c 6e 73 3a 78 6d 69 6d 65 3d 22 68 74 74 70 3a 2f 2f 77 77 77 2e 77 33 2e 6f 72 67 2f 32 30 30 35 2f 30 35 2f 78 6d 6c 6d 69 6d 65 22 20 78 6d 6c 6e 73 3a 78 73     <roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xs
+2022-06-20T01:06:26.494Z,58.494999,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.494Z,58.494999,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.984Z,58.984482,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.985Z,58.985485,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.985Z,58.985485,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.985Z,58.985485,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.985Z,58.985485,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.988Z,58.988483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.989Z,58.989483,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.990Z,58.990486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.991Z,58.991486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.991Z,58.991486,1bf8,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.991Z,58.991486,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.992Z,58.992485,1bf8,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.992Z,58.992485,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.993Z,58.993484,1bf8,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Xxxpearlkia https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.993Z,58.993484,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in Xxxpearlkia rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:26.994Z,58.994488,1bf8,6 [FLog::Output] Hidden Surface Removal data for Head in Xxxpearlkia rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:26.994Z,58.994488,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:26.994Z,58.994488,1bf8,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:27.007Z,59.007492,1bf8,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:27.033Z,59.033501,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.033Z,59.033501,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.034Z,59.034500,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.116Z,59.116825,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.289Z,59.289471,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.289Z,59.289471,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.720Z,59.720421,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:27.720Z,59.720421,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:27.930Z,59.930023,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.930Z,59.930023,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:27.930Z,59.930023,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:27.931Z,59.931038,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.931Z,59.931038,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:27.931Z,59.931038,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:28.178Z,60.178143,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:28.558Z,60.558392,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:28.704Z,60.704525,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:28.705Z,60.705521,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:28.751Z,60.751328,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:28.903Z,60.903755,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:28.903Z,60.903755,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.009Z,61.009285,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.336Z,61.336651,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.336Z,61.336651,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.533Z,61.533813,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.533Z,61.533813,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.978Z,61.978779,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:29.978Z,61.978779,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:30.284Z,62.284248,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:31.073Z,63.073883,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:31.076Z,63.076897,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:31.837Z,63.837246,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:31.838Z,63.838242,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.182Z,64.182091,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:32.182Z,64.182091,1bf8,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:32.182Z,64.182091,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.182Z,64.182091,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.182Z,64.182091,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.184Z,64.184090,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.184Z,64.184090,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.701Z,64.701492,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:32.850Z,64.850197,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495280 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.850Z,64.850197,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495280 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495270 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495270 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495271 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495271 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495273 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.851Z,64.851189,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495273 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.852Z,64.852188,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495303 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495303 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650168573 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650168573 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495364 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495364 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495362 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.853Z,64.853180,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495362 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.854Z,64.854172,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495382 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.854Z,64.854172,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495382 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.854Z,64.854172,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495330 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.854Z,64.854172,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495330 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.854Z,64.854172,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495379 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.856Z,64.856163,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495379 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.856Z,64.856163,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495376 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.856Z,64.856163,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495376 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.856Z,64.856163,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650168468 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.856Z,64.856163,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650168468 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.857Z,64.857155,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495301 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.857Z,64.857155,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in ttttrrrroooooo https://assetdelivery.roblox.com/v1/asset/?id=8650495301 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.857Z,64.857155,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in ttttrrrroooooo rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.857Z,64.857155,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in ttttrrrroooooo rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:32.858Z,64.858154,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8861766183 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.858Z,64.858154,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8861766183 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:32.934Z,64.934265,17c4,6 [FLog::Error] Error: TweenService:Create failed because Instance is null
+    Stack Begin
+    Script 'Players.ftcsvisgreat.PlayerScripts.Client', Line 87
+    Stack End
+2022-06-20T01:06:33.315Z,65.315727,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:33.315Z,65.315727,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:33.316Z,65.316765,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:33.764Z,65.764099,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:33.934Z,65.934723,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:34.864Z,66.864906,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.121Z,67.121315,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.121Z,67.121315,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.121Z,67.121315,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.121Z,67.121315,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.310Z,67.310097,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:35.429Z,67.429314,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.341Z,68.341400,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.341Z,68.341400,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.524Z,68.524689,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.722Z,68.722038,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.997Z,68.997063,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:36.997Z,68.997063,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:37.444Z,69.444824,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:37.446Z,69.446846,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:38.705Z,70.705330,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:39.315Z,71.315002,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:39.315Z,71.315971,17c4,6 [FLog::RotargetDebug] Rotarget: target and source rig verified
+2022-06-20T01:06:39.315Z,71.315971,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:39.861Z,71.861366,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:39.957Z,71.957222,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:39.958Z,71.958221,1bf8,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:40.254Z,72.254471,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:41.512Z,73.512482,1d94,6 [FLog::Graphics] Setting screen DPI scale to 0.00 (was 1.00)
+2022-06-20T01:06:41.901Z,73.901070,17c4,6 [FLog::RotargetDebug] Rotarget: source rig creation failed
+2022-06-20T01:06:42.431Z,74.431946,1d94,6 [FLog::Error] signalr: new state: 0, message: stop was called
+2022-06-20T01:06:42.432Z,74.432945,1d94,6 [DFLog::PerfHistogram] Performance histogram MutexContentionWait
+2022-06-20T01:06:42.432Z,74.432945,1d94,6 [DFLog::PerfHistogram]   <1     us : 119
+2022-06-20T01:06:42.433Z,74.433952,1d94,6 [DFLog::PerfHistogram]   <3     us : 0
+2022-06-20T01:06:42.433Z,74.433952,1d94,6 [DFLog::PerfHistogram]   <9     us : 0
+2022-06-20T01:06:42.433Z,74.433952,1d94,6 [DFLog::PerfHistogram]   <27    us : 0
+2022-06-20T01:06:42.433Z,74.433952,1d94,6 [DFLog::PerfHistogram]   <81    us : 0
+2022-06-20T01:06:42.435Z,74.435959,1d94,6 [DFLog::PerfHistogram]   <243   us : 0
+2022-06-20T01:06:42.435Z,74.435959,1d94,6 [DFLog::PerfHistogram]   <729   us : 0
+2022-06-20T01:06:42.436Z,74.436966,1d94,6 [DFLog::PerfHistogram]   <2187  us : 0
+2022-06-20T01:06:42.436Z,74.436966,1d94,6 [DFLog::PerfHistogram]   <6561  us : 0
+2022-06-20T01:06:42.437Z,74.437973,1d94,6 [DFLog::PerfHistogram]  (larger)   : 0
+2022-06-20T01:06:42.520Z,74.520241,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.520Z,74.520241,17c4,6 [FLog::Output] Hidden Surface Removal data for RightHand in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173932 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.521Z,74.521240,17c4,6 [FLog::Output] Info: HSR data for LeftLowerArm https://www.roblox.com//asset/?id=9231912866 does not have an asset, please publish the place or the model again.
+2022-06-20T01:06:42.521Z,74.521240,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.521Z,74.521240,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173930 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174089 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173999 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.522Z,74.522240,17c4,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174057 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.525Z,74.525230,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.526Z,74.526230,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173927 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.526Z,74.526230,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.536Z,74.536201,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173925 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.539Z,74.539192,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.547Z,74.547173,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173950 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.549Z,74.549164,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.551Z,74.551163,17c4,6 [FLog::Output] Hidden Surface Removal data for RightFoot in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174055 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.552Z,74.552155,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.559Z,74.559135,17c4,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174053 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.580Z,74.580894,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.593Z,74.593956,17c4,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174087 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.596Z,74.596970,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.629Z,74.629128,17c4,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997174058 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.803Z,74.803772,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.804Z,74.804771,17c4,6 [FLog::Output] Hidden Surface Removal data for LeftHand in Anasjumana https://assetdelivery.roblox.com/v1/asset/?id=8997173998 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.805Z,74.805779,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in Anasjumana rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:42.805Z,74.805779,17c4,6 [FLog::Output] Hidden Surface Removal data for Head in Anasjumana rbxassetid://8635368421 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T01:06:42.805Z,74.805779,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9253703331 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:42.813Z,74.813805,17c4,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9253703331 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T01:06:43.531Z,75.531906,17c4,6 [FLog::Error] Error: ContentProvider:getContent() in fetch HSR asset data failed for Temp read failed.
+2022-06-20T01:06:43.557Z,75.557884,1d94,7 [FLog::Network] Client:Disconnect
+2022-06-20T01:06:43.559Z,75.559883,1d94,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] MRD cleanup WorkerCount available: 2, for MRD table size: 16927
+2022-06-20T01:06:43.562Z,75.562881,1d94,7 [FLog::Network] Time to disconnect replication data: 3.390200
+2022-06-20T01:06:49.691Z,81.691750,1d94,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T01:06:49.793Z,81.793045,1908,7 [FLog::Network] Connection lost
+2022-06-20T01:06:49.795Z,81.795052,1908,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:81791, connectionTime 7150
+2022-06-20T01:06:49.804Z,81.804070,1908,7 [FLog::Network] Connection lost: AckTimeout 0, IsOutgoingDataWaiting 0
+2022-06-20T01:06:49.805Z,81.805077,1908,7 [FLog::Network] Disconnection Notification. Reason: 285
+2022-06-20T01:06:50.274Z,82.274406,1d94,12 [DFLog::HttpTraceError] HttpResponse(#991 31197DB0) time:526.9ms (net:526.7ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://assetgame.roblox.com/Game/ClientPresence.ashx?version=old&PlaceID=3851622790&GameID=90af263d-57ae-413b-9f84-25e2787d8a86&UserID=3635455297&disconnect=true" ip: external:0 numberOfTimesRetried:0
+2022-06-20T01:06:50.274Z,82.274406,1d94,6 [FLog::Output] OnDisconnect http req time:527.60ms (timeout)
+2022-06-20T01:06:50.281Z,82.281380,1d94,7 [FLog::Network] Replicator destroyed: 18739088
+2022-06-20T01:06:50.430Z,82.430458,1d94,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T01:06:54.733Z,86.733025,1d94,7 [FLog::Network] Client:Disconnect
+2022-06-20T01:06:55.223Z,87.223145,1d94,6 [FLog::Output] Closing Fmod (as 16, ml 0, sl 0).
+2022-06-20T01:06:55.642Z,87.642433,1d94,6 [FLog::Output] Fmod Closed.
+2022-06-20T01:06:56.629Z,88.629585,1d94,7 [FLog::Network] NetworkClient:Remove
+2022-06-20T01:06:56.629Z,88.629585,1d94,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] Destroying MegaReplicator.
+2022-06-20T01:06:59.160Z,91.160500,1d94,12 [DFLog::HttpTraceError] HttpResponse(#998 3119C328) time:99.6ms (net:99.5ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://client-telemetry.roblox.com" ip: external:0 numberOfTimesRetried:0

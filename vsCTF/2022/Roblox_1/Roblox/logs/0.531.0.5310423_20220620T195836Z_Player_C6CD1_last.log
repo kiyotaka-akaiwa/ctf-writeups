@@ -1,0 +1,15 @@
+2022-06-20T19:58:37.881Z,0.881254,1178,6 [FLog::Output] RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T19:58:37.881Z,0.881254,1178,6 [FLog::Output] The channel is production
+2022-06-20T19:58:39.920Z,2.920907,1178,6 [FLog::Error] Test log: Map check complete and successful!
+2022-06-20T19:58:39.920Z,2.920907,1178,6 [FLog::Error] Dynamic initializer test result: SUCCESS
+2022-06-20T19:58:39.920Z,2.920907,1178,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 0 active: 0>
+2022-06-20T19:58:40.030Z,3.030064,1178,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T19:58:40.148Z,3.148421,1178,6 [FLog::Output] Loading AppSettings.xml from C:\Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\AppSettings.xml
+2022-06-20T19:58:40.188Z,3.188709,1178,6 [FLog::Output] setAssetFolder content
+2022-06-20T19:58:40.189Z,3.189692,1178,6 [FLog::Output] setExtraAssetFolder C:/Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\ExtraContent
+2022-06-20T19:58:40.194Z,3.194842,1178,6 [FLog::Output] CrashReporter Start
+2022-06-20T19:58:40.194Z,3.194842,1178,6 [FLog::Output] The crash upload percentage is 10
+2022-06-20T19:58:40.194Z,3.194842,1178,6 [FLog::Output] Info: Searching for and uploading crash dumps
+2022-06-20T19:58:40.194Z,3.194842,1178,6 [FLog::Output] the dump url: 
+2022-06-20T19:58:40.335Z,3.335828,17e8,6 [FLog::Output] WatcherThread Started
+2022-06-20T19:58:41.125Z,4.125034,1178,12 [DFLog::HttpTraceError] HttpResponse(#3 09166ED0) time:129.6ms (net:45.2ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://client-telemetry.roblox.com" ip: external:0 numberOfTimesRetried:0

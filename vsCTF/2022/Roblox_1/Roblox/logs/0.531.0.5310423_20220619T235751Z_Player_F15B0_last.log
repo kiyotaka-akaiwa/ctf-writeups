@@ -1,0 +1,135 @@
+2022-06-19T23:57:52.445Z,0.445909,1968,6 [FLog::Output] RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-19T23:57:52.453Z,0.453904,1968,6 [FLog::Output] The channel is production
+2022-06-19T23:57:52.870Z,0.870328,1968,6 [FLog::Error] Test log: Map check complete and successful!
+2022-06-19T23:57:52.870Z,0.870328,1968,6 [FLog::Error] Dynamic initializer test result: SUCCESS
+2022-06-19T23:57:52.870Z,0.870328,1968,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 0 active: 0>
+2022-06-19T23:57:52.974Z,0.974721,1968,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-19T23:57:53.050Z,1.050552,1968,6 [FLog::Output] Loading AppSettings.xml from C:\Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\AppSettings.xml
+2022-06-19T23:57:53.050Z,1.050552,1968,6 [FLog::Output] setAssetFolder content
+2022-06-19T23:57:53.055Z,1.055575,1968,6 [FLog::Output] setExtraAssetFolder C:/Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\ExtraContent
+2022-06-19T23:57:53.615Z,1.615774,1968,6 [FLog::Output] CrashReporter Start
+2022-06-19T23:57:53.615Z,1.615774,1968,6 [FLog::Output] The crash upload percentage is 10
+2022-06-19T23:57:53.616Z,1.616775,1968,6 [FLog::Output] Authentication request URL: https://auth.roblox.com/v1/authentication-ticket/redeem ticket: JdcCmXPbY_9_MLQO-lxS8PIA2NXtlhaxHHcqMgxFhrDZljTfHCOLdI41V1nmdcsKzCRH3PzOBR3GyoXwsNqGaaEsjoTiS6GUrsiyVpfZAJ0qbOYjJJoOL0FaWfQmjA_b1PSloFsM3ZHkUFv-n2Sh5bNfS54DP5EB3mpM01l45ZwoN6Qtzv_TPhrPUGGMj1bZ6-cry3SXh7WKkO6LxFicHovP9pM0EYHG1z2K4TRimbc
+2022-06-19T23:57:53.618Z,1.618776,0b6c,6 [FLog::Output] WatcherThread Started
+2022-06-19T23:57:56.084Z,4.084347,1968,6 [FLog::Error] Error: Important !Loading shader files
+2022-06-19T23:57:56.085Z,4.085344,1968,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-19T23:57:56.087Z,4.087338,1968,6 [FLog::Output] Info: Initializing new game
+2022-06-19T23:57:56.305Z,4.305984,1968,6 [FLog::Output] account = UA-43420590-14, schedule = 500
+2022-06-19T23:57:56.307Z,4.307986,1968,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-19T23:57:56.875Z,4.875336,1968,6 [FLog::Output] Hello Avatars!
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello! <Tap tap> Is this thing on?
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello World will suffice.
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello from a lush garden!
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello! Happy to meet you.
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello Cool Kids!
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello! Let's hope this works.
+2022-06-19T23:57:56.876Z,4.876334,1968,6 [FLog::Output] Hello from the other side of the galaxy!
+2022-06-19T23:58:00.242Z,8.242427,1968,6 [FLog::VR] VR: VR_IsSteamVRRunning returned false
+2022-06-19T23:58:00.894Z,8.894230,1968,6 [FLog::Graphics] D3D11 Adapter: VMware SVGA 3D
+2022-06-19T23:58:00.894Z,8.894230,1968,6 [FLog::Graphics] D3D11 Adapter: Vendor 15ad Device 0405 VRAM 4 RAM 1023
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: ThreadSafe 0 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 ConstBuffers 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Framebuffer: MRT 8 MSAA 8 Stencil 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 1 DepthFloat 1 DepthClamp 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Border Color 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 0
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: Texture: Size 16384 Units 16
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: ConstantBufferSize 65536
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: 32bIdx 1 Memoryless 0 mediump 0
+2022-06-19T23:58:00.895Z,8.895237,1968,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2022-06-19T23:58:01.141Z,9.141315,1968,6 [FLog::Graphics] Video memory size: 1077403648
+2022-06-19T23:58:01.454Z,9.454647,1968,6 [FLog::Graphics] Loaded 676 shaders from pack d3d11 variant defaultRoughnessRemap (8598140 bytes)
+2022-06-19T23:58:01.454Z,9.454647,1968,6 [FLog::Graphics] Compiled 676 shaders in 313 ms
+2022-06-19T23:58:02.650Z,10.650597,1968,6 [FLog::Output] Studio D3D9 GPU: VMware SVGA 3D
+2022-06-19T23:58:02.650Z,10.650597,1968,6 [FLog::Output] Studio D3D9 GPU: Vendor 15ad Device 0405
+2022-06-19T23:58:02.650Z,10.650597,1968,6 [FLog::Output] Studio D3D9 Driver: vm3dum_loader.dll 8.17.2.14
+2022-06-19T23:58:02.652Z,10.652596,1968,6 [FLog::Output] ESGamePerfMonitor GPU: Vendor 000015ad Device 00000405
+2022-06-19T23:58:02.652Z,10.652596,1968,6 [FLog::Output] ESGamePerfMonitor GPU: SubSys 040515ad Revision 00000000
+2022-06-19T23:58:02.652Z,10.652596,1968,6 [FLog::Output] ESGamePerfMonitor GPU: DedicatedVidMem 4194304 DedicatedSysMem 1073209344 SharedSystemMemory 97888833026129920
+2022-06-19T23:58:02.704Z,10.704501,1bac,6 [FLog::Output] PlaceLauncher URL : https://assetgame.roblox.com/game/PlaceLauncher.ashx?request=RequestGame&browserTrackerId=136867614413&placeId=9928307557&isPlayTogetherGame=false
+2022-06-19T23:58:02.704Z,10.704501,1bac,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2022-06-19T23:58:02.704Z,10.704501,1bac,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":9928307557,"gameJoinAttemptId":"2DFE361D-27F8-4A45-8A89-7A573891E51A","browserTrackerId":"136867614413"}
+2022-06-19T23:58:02.704Z,10.704501,1bac,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2022-06-19T23:58:02.704Z,10.704501,1bac,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2022-06-19T23:58:03.128Z,11.128269,1968,6 [FLog::Graphics] LayeredClothingMode updated: LC=1 SkeletonAPI=1 HSR=1 TC2=1
+2022-06-19T23:58:04.631Z,12.631970,0e70,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"8a55cae8-f3c4-470c-90ab-3f3efbb062bc","status":2,"joinScriptUrl":"https://assetgame.roblox.com/Game/Join.ashx?ticketVersion=2&ticket=%7b%22UserId%22%3a3635455297%2c%22UserName%22%3a%22ftcsvisgreat%22%2c%22DisplayName%22%3a%22ftcsvisgreat%22%2c%22CharacterFetchUrl%22%3a%22https%3a%2f%2fapi.roblox.com%2fv1.1%2favatar-fetch%2f%3fplaceId%3d9928307557%26userId%3d3635455297%22%2c%22GameId%22%3a%228a55cae8-f3c4-470c-90ab-3f3efbb062bc%22%2c%22PlaceId%22%3a9928307557%2c%22UniverseId%22%3a3663017825%2c%22ServerId%22%3a131789%2c%22ServerPort%22%3a54792%2c%22IsTeleport%22%3afalse%2c%22FollowUserId%22%3anull%2c%22TimeStamp%22%3a%226%2f19%2f2022+6%3a58%3a05+PM%22%2c%22CharacterAppearanceId%22%3a3635455297%2c%22AlternateName%22%3anull%2c%22JoinTypeId%22%3a10%2c%22MatchmakingDecisionId%22%3a%22b38037af-3749-473c-a9f1-7ca6f898a51e%22%2c%22GameJoinMetadata%22%3a%7b%22JoinSource%22%3a0%2c%22RequestType%22
+2022-06-19T23:58:04.631Z,12.631970,0e70,6 [FLog::GameJoinUtil] Default handler, game join succeeded.
+2022-06-19T23:58:04.631Z,12.631970,0e70,6 [FLog::GameJoinUtil] GameJoinUtil::processing join parameters
+2022-06-19T23:58:04.632Z,12.632973,0df8,7 [FLog::Network] NetworkClient:Create
+2022-06-19T23:58:04.633Z,12.633975,0df8,10 [DFLog::KeyRing] Parsed config created at: 19:56 11/23/2021.
+2022-06-19T23:58:04.932Z,12.932720,0df8,6 [FLog::Output] ! Joining game '8a55cae8-f3c4-470c-90ab-3f3efbb062bc' place 9928307557 at 128.116.24.186
+2022-06-19T23:58:04.932Z,12.932720,0df8,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: placeid:9928307557, join_time:1.9294741399996375719, universeid:3663017825, referral_page:, sid:69a473c7-f44b-4375-9091-d2ab39ab727e, clienttime:1655683084.8629999161, userid:3635455297, 
+2022-06-19T23:58:04.957Z,12.957611,0df8,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2022-06-19T23:58:04.957Z,12.957611,0df8,7 [FLog::Network] Server Address = 128.116.24.186, Port = 54792
+2022-06-19T23:58:04.959Z,12.959602,0df8,7 [FLog::Network] binding socket on inaddr_any:0
+
+2022-06-19T23:58:04.970Z,12.970555,0df8,6 [FLog::Output] Connecting to 128.116.24.186:54792
+2022-06-19T23:58:04.971Z,12.971551,0df8,7 [FLog::Network] Connecting to server, IP(inet_addr): 3122164864 Port: 54792
+2022-06-19T23:58:05.044Z,13.044517,0e70,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-19T23:58:05.045Z,13.045514,0e70,7 [FLog::Network] Set latency from Ixp live response after 88.898682 ms
+2022-06-19T23:58:05.209Z,13.209156,0df8,6 [FLog::Output] Connection accepted from 128.116.24.186|54792
+2022-06-19T23:58:05.211Z,13.211163,0df8,7 [FLog::Network] serverId: 128.116.24.186|54792
+2022-06-19T23:58:05.211Z,13.211163,0df8,7 [FLog::Network] Replicator created for player 128.116.24.186|54792
+2022-06-19T23:58:05.211Z,13.211163,0df8,7 [FLog::Network] Replicator created: 1833EFF8
+2022-06-19T23:58:05.379Z,13.379572,0df8,7 [FLog::Network] Time taken to initialize schema = 10.981100 ms
+2022-06-19T23:58:05.379Z,13.379572,0df8,7 [FLog::Network] Assigned peer id = 170
+2022-06-19T23:58:05.379Z,13.379572,0df8,7 [FLog::Network] Join snapshot timer: 0.139200
+2022-06-19T23:58:06.396Z,14.396258,0e70,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-19T23:58:07.318Z,15.318640,1968,6 [FLog::Graphics] Future is bright shadows
+2022-06-19T23:58:07.727Z,15.727491,1968,6 [FLog::Error] Asset (Image) "" load failed: Unexpected URL
+2022-06-19T23:58:12.178Z,20.178255,0df8,6 [FLog::Output] Server RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-19T23:58:12.178Z,20.178255,0df8,6 [FLog::Output] Server Prefix: 0.531.0.5310423_20220619T210710Z_RCC_0f55a
+2022-06-19T23:58:18.870Z,26.870037,0df8,6 [FLog::Warning] Warning: Infinite yield possible on 'Players.ftcsvisgreat.PlayerGui:WaitForChild("ClientEvents")'
+2022-06-19T23:58:18.870Z,26.870037,0df8,6 [FLog::Output] Info: Stack Begin
+2022-06-19T23:58:18.871Z,26.871029,0df8,6 [FLog::Output] Info: Script 'Players.ftcsvisgreat.PlayerScripts.Client', Line 40
+2022-06-19T23:58:18.871Z,26.871029,0df8,6 [FLog::Output] Info: Stack End
+2022-06-19T23:58:19.222Z,27.222677,1968,6 [FLog::Graphics] SolidTextures::initSolidTextures()
+2022-06-19T23:58:19.223Z,27.223680,1968,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+2022-06-19T23:58:20.856Z,28.856501,0df8,6 [FLog::Error] Error: BuyButton is not a valid member of ImageLabel "Players.ftcsvisgreat.PlayerGui.Main.Codes.Background.VerifyFrame"
+    Stack Begin
+    Script 'Players.ftcsvisgreat.PlayerScripts.Client', Line 83
+    Stack End
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.382Z,54.382149,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:46.384Z,54.384148,0df8,6 [FLog::Output] Enum.UserInputState.Cancel
+2022-06-19T23:58:55.102Z,63.102444,0e70,12 [DFLog::HttpTraceError] HttpResponse(#160 2FCF5210) time:5514.2ms (net:3508.3ms callback:0.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=7842817520" ip:23.218.224.69 external:0 numberOfTimesRetried:0
+2022-06-19T23:58:55.104Z,63.104435,0e70,12 [DFLog::HttpTraceError] HttpResponse(#161 2FCF6800) time:5514.2ms (net:3508.2ms callback:0.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=7842817635" ip:23.218.224.69 external:0 numberOfTimesRetried:0
+2022-06-19T23:58:55.104Z,63.104435,0e70,12 [DFLog::HttpTraceError] HttpResponse(#162 185744B8) time:5514.2ms (net:3508.2ms callback:0.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=7842871159" ip:23.218.224.69 external:0 numberOfTimesRetried:0
+2022-06-20T00:00:36.635Z,164.635666,1968,6 [FLog::Graphics] Setting screen DPI scale to 0.00 (was 1.00)
+2022-06-20T00:00:36.933Z,164.933029,1968,6 [FLog::Error] signalr: new state: 0, message: stop was called
+2022-06-20T00:00:36.933Z,164.933029,1968,6 [DFLog::PerfHistogram] Performance histogram MutexContentionWait
+2022-06-20T00:00:36.933Z,164.933029,1968,6 [DFLog::PerfHistogram]   <1     us : 28
+2022-06-20T00:00:36.933Z,164.933029,1968,6 [DFLog::PerfHistogram]   <3     us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <9     us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <27    us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <81    us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <243   us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <729   us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <2187  us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]   <6561  us : 0
+2022-06-20T00:00:36.936Z,164.936020,1968,6 [DFLog::PerfHistogram]  (larger)   : 0
+2022-06-20T00:00:36.956Z,164.956924,1968,7 [FLog::Network] Client:Disconnect
+2022-06-20T00:00:36.960Z,164.960907,1968,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] MRD cleanup WorkerCount available: 2, for MRD table size: 38883
+2022-06-20T00:00:38.194Z,166.194489,1968,7 [FLog::Network] Time to disconnect replication data: 1232.683350
+2022-06-20T00:00:43.229Z,171.229279,1968,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T00:00:43.309Z,171.309509,2394,7 [FLog::Network] Connection lost
+2022-06-20T00:00:43.309Z,171.309509,2394,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:171309, connectionTime 13146
+2022-06-20T00:00:43.309Z,171.309509,2394,7 [FLog::Network] Connection lost: AckTimeout 0, IsOutgoingDataWaiting 0
+2022-06-20T00:00:43.309Z,171.309509,2394,7 [FLog::Network] Disconnection Notification. Reason: 285
+2022-06-20T00:00:43.543Z,171.543655,1968,6 [FLog::Output] OnDisconnect http req time:314.39ms
+2022-06-20T00:00:43.548Z,171.548691,1968,7 [FLog::Network] Replicator destroyed: 1833EFF8
+2022-06-20T00:00:43.587Z,171.587967,1968,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T00:00:45.815Z,173.815506,1968,7 [FLog::Network] Client:Disconnect
+2022-06-20T00:00:45.856Z,173.856476,1968,6 [FLog::Output] Closing Fmod (as 9, ml 0, sl 0).
+2022-06-20T00:00:46.084Z,174.084534,1968,6 [FLog::Output] Fmod Closed.
+2022-06-20T00:00:46.088Z,174.088959,1968,7 [FLog::Network] NetworkClient:Remove
+2022-06-20T00:00:46.088Z,174.088959,1968,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] Destroying MegaReplicator.
+2022-06-20T00:00:52.391Z,180.391113,1968,12 [DFLog::HttpTraceError] HttpResponse(#618 2A3FC4B0) time:102.2ms (net:102.0ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://client-telemetry.roblox.com" ip: external:0 numberOfTimesRetried:0

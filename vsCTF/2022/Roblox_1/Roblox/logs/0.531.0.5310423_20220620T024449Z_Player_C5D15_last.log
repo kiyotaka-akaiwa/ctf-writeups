@@ -1,0 +1,155 @@
+2022-06-20T02:44:50.095Z,0.095768,1c14,6 [FLog::Output] RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T02:44:50.096Z,0.096768,1c14,6 [FLog::Output] The channel is production
+2022-06-20T02:44:50.346Z,0.346223,1c14,6 [FLog::Error] Test log: Map check complete and successful!
+2022-06-20T02:44:50.346Z,0.346223,1c14,6 [FLog::Error] Dynamic initializer test result: SUCCESS
+2022-06-20T02:44:50.348Z,0.348223,1c14,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 0 active: 0>
+2022-06-20T02:44:50.354Z,0.354221,1c14,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T02:44:50.401Z,0.401863,1c14,6 [FLog::Output] Loading AppSettings.xml from C:\Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\AppSettings.xml
+2022-06-20T02:44:50.403Z,0.403872,1c14,6 [FLog::Output] setAssetFolder content
+2022-06-20T02:44:50.405Z,0.405881,1c14,6 [FLog::Output] setExtraAssetFolder C:/Users\adminbot6000\AppData\Local\Roblox\Versions\version-fb795406f04b4467\ExtraContent
+2022-06-20T02:44:50.669Z,0.669817,1c14,6 [FLog::Output] CrashReporter Start
+2022-06-20T02:44:50.669Z,0.669817,1c14,6 [FLog::Output] The crash upload percentage is 10
+2022-06-20T02:44:50.673Z,0.673822,1c14,6 [FLog::Output] Authentication request URL: https://auth.roblox.com/v1/authentication-ticket/redeem ticket: viXIPuPnoPpJbwC5DimRhhPXPkSF5yiFtVAdHqtQTcXMXtKfKeYX-Pp_3szVD50fsBPckaaFx0OYaPgFya_CSiCrMquK9WAoeC7eVZq9oBM3sdLp6nGwFTMrVERHECVErP2QwDDdRN18Pef3XGCNk5SdEnUhuY_LuasCYLFWI5yxTMP18GIQllGHZ_oke6i36rwRkVVOxEhhfAylhkBfK5_GxRcecsGqLheD6ykFUG4
+2022-06-20T02:44:50.679Z,0.679829,116c,6 [FLog::Output] WatcherThread Started
+2022-06-20T02:44:51.847Z,1.847439,1c14,6 [FLog::Error] Error: Important !Loading shader files
+2022-06-20T02:44:51.848Z,1.848434,1c14,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T02:44:51.850Z,1.850426,1c14,6 [FLog::Output] Info: Initializing new game
+2022-06-20T02:44:51.867Z,1.867264,1c14,6 [FLog::Output] account = UA-43420590-14, schedule = 500
+2022-06-20T02:44:51.867Z,1.867264,1c14,6 [FLog::Output] TaskSchedulerMk2::applyAsyncTaskThreadCount( 3 ) <req: 3 active: 3>
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello Avatars!
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello! <Tap tap> Is this thing on?
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello World will suffice.
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello from a lush garden!
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello! Happy to meet you.
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello Cool Kids!
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello! Let's hope this works.
+2022-06-20T02:44:52.307Z,2.307528,1c14,6 [FLog::Output] Hello from the other side of the galaxy!
+2022-06-20T02:44:52.479Z,2.479476,1c14,6 [FLog::VR] VR: VR_IsSteamVRRunning returned false
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [FLog::Graphics] D3D11 Adapter: VMware SVGA 3D
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [FLog::Graphics] D3D11 Adapter: Vendor 15ad Device 0405 VRAM 4 RAM 2521
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: ThreadSafe 0 Framebuffer 1 FpFramebuffer 1 Shaders 1 Compute 1 Instancing 1 ConstBuffers 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Framebuffer: MRT 8 MSAA 8 Stencil 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Framebuffer: Depth16 1 Depth24 1 DepthFloat 1 DepthClamp 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Border Color 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Texture: RGB10A2 1 RG11B10F 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Texture: DXT 1 PVR 0 ETC1 0 ETC2 0 Half 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Texture: 3D 1 Array 1 Depth 1 MSAA 1 MSAAFP16 0
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Texture: NPOT 1 PartialMips 1 CubeMipGen 1 CubeFramebuffer 1
+2022-06-20T02:44:52.512Z,2.512562,1c14,6 [channel] Caps: Texture: Size 16384 Units 16
+2022-06-20T02:44:52.514Z,2.514567,1c14,6 [channel] Caps: ConstantBufferSize 65536
+2022-06-20T02:44:52.514Z,2.514567,1c14,6 [channel] Caps: 32bIdx 1 Memoryless 0 mediump 0
+2022-06-20T02:44:52.514Z,2.514567,1c14,6 [channel] Caps: ColorBGR 0 RTFlip 0 MinusOneToOneDepth 0
+2022-06-20T02:44:52.620Z,2.620229,1c14,6 [FLog::Graphics] Video memory size: 2147483648
+2022-06-20T02:44:52.756Z,2.756392,1c14,6 [FLog::Graphics] Loaded 676 shaders from pack d3d11 variant defaultRoughnessRemap (8598140 bytes)
+2022-06-20T02:44:52.756Z,2.756392,1c14,6 [FLog::Graphics] Compiled 676 shaders in 137 ms
+2022-06-20T02:44:53.173Z,3.173673,1c14,6 [FLog::Output] Studio D3D9 GPU: VMware SVGA 3D
+2022-06-20T02:44:53.173Z,3.173673,1c14,6 [FLog::Output] Studio D3D9 GPU: Vendor 15ad Device 0405
+2022-06-20T02:44:53.173Z,3.173673,1c14,6 [FLog::Output] Studio D3D9 Driver: vm3dum_loader.dll 8.17.2.14
+2022-06-20T02:44:53.173Z,3.173673,1c14,6 [FLog::Output] ESGamePerfMonitor GPU: Vendor 000015ad Device 00000405
+2022-06-20T02:44:53.175Z,3.175673,1c14,6 [FLog::Output] ESGamePerfMonitor GPU: SubSys 040515ad Revision 00000000
+2022-06-20T02:44:53.175Z,3.175673,1c14,6 [FLog::Output] ESGamePerfMonitor GPU: DedicatedVidMem 4194304 DedicatedSysMem 2643976192 SharedSystemMemory 123221580930088960
+2022-06-20T02:44:53.181Z,3.181671,11b4,6 [FLog::Output] PlaceLauncher URL : https://assetgame.roblox.com/game/PlaceLauncher.ashx?request=RequestGame&browserTrackerId=136867614413&placeId=4924922222&isPlayTogetherGame=false
+2022-06-20T02:44:53.183Z,3.183671,11b4,6 [FLog::GameJoinUtil] GameJoinUtil::joinGame
+2022-06-20T02:44:53.183Z,3.183671,11b4,6 [FLog::GameJoinUtil] GameJoinUtil::joinGamePostStandard: URL: https://gamejoin.roblox.com/v1/join-game BODY: {"placeId":4924922222,"gameJoinAttemptId":"60B0A7C8-C6F7-4F78-BC12-DD3A24D5385D","browserTrackerId":"136867614413"}
+2022-06-20T02:44:53.183Z,3.183671,11b4,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest: requestCount: 0, url: https://gamejoin.roblox.com/v1/join-game.
+2022-06-20T02:44:53.183Z,3.183671,11b4,6 [FLog::GameJoinUtil] Delaying request by 0.00 seconds
+2022-06-20T02:44:53.199Z,3.199667,1c14,6 [FLog::Graphics] LayeredClothingMode updated: LC=1 SkeletonAPI=1 HSR=1 TC2=1
+2022-06-20T02:44:53.852Z,3.852027,089c,6 [FLog::GameJoinUtil] GameJoinUtil::makePlaceLauncherRequest, response:
+{"jobId":"aec61329-d4cb-477d-8e99-94f7dc666179","status":2,"joinScriptUrl":"https://assetgame.roblox.com/Game/Join.ashx?ticketVersion=2&ticket=%7b%22UserId%22%3a3635455297%2c%22UserName%22%3a%22ftcsvisgreat%22%2c%22DisplayName%22%3a%22ftcsvisgreat%22%2c%22CharacterFetchUrl%22%3a%22https%3a%2f%2fapi.roblox.com%2fv1.1%2favatar-fetch%2f%3fplaceId%3d4924922222%26userId%3d3635455297%22%2c%22GameId%22%3a%22aec61329-d4cb-477d-8e99-94f7dc666179%22%2c%22PlaceId%22%3a4924922222%2c%22UniverseId%22%3a1686885941%2c%22ServerId%22%3a128369%2c%22ServerPort%22%3a57128%2c%22IsTeleport%22%3afalse%2c%22FollowUserId%22%3anull%2c%22TimeStamp%22%3a%226%2f19%2f2022+9%3a44%3a53+PM%22%2c%22CharacterAppearanceId%22%3a3635455297%2c%22AlternateName%22%3anull%2c%22JoinTypeId%22%3a10%2c%22MatchmakingDecisionId%22%3a%2258d4d2bf-30f8-4883-9f1b-a819082bcc8e%22%2c%22GameJoinMetadata%22%3a%7b%22JoinSource%22%3a0%2c%22RequestType%22%
+2022-06-20T02:44:53.854Z,3.854050,089c,6 [FLog::GameJoinUtil] Default handler, game join succeeded.
+2022-06-20T02:44:53.857Z,3.857084,089c,6 [FLog::GameJoinUtil] GameJoinUtil::processing join parameters
+2022-06-20T02:44:53.859Z,3.859106,02fc,7 [FLog::Network] NetworkClient:Create
+2022-06-20T02:44:53.859Z,3.859106,02fc,10 [DFLog::KeyRing] Parsed config created at: 19:56 11/23/2021.
+2022-06-20T02:44:53.884Z,3.884721,02fc,6 [FLog::Output] ! Joining game 'aec61329-d4cb-477d-8e99-94f7dc666179' place 4924922222 at 128.116.27.153
+2022-06-20T02:44:53.884Z,3.884721,02fc,6 [FLog::GameJoinLoadTime] Report game_join_loadtime: placeid:4924922222, join_time:0.67543531900034814441, universeid:1686885941, referral_page:, sid:390e4959-12ef-40cc-8bcf-973140b4a586, clienttime:1655693093.8150000572, userid:3635455297, 
+2022-06-20T02:44:53.892Z,3.892699,02fc,7 [FLog::Network] Client will attempt to connect following server endpoints with threadSleepTime(-1)
+2022-06-20T02:44:53.892Z,3.892699,02fc,7 [FLog::Network] Server Address = 128.116.27.153, Port = 57128
+2022-06-20T02:44:53.894Z,3.894693,02fc,7 [FLog::Network] binding socket on inaddr_any:0
+
+2022-06-20T02:44:53.917Z,3.917629,02fc,6 [FLog::Output] Connecting to 128.116.27.153:57128
+2022-06-20T02:44:53.918Z,3.918626,02fc,7 [FLog::Network] Connecting to server, IP(inet_addr): 2568713344 Port: 57128
+2022-06-20T02:44:53.970Z,3.970334,089c,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T02:44:53.970Z,3.970334,089c,7 [FLog::Network] Set latency from Ixp live response after 78.632629 ms
+2022-06-20T02:44:54.194Z,4.194466,1d70,6 [FLog::Output] Connection accepted from 128.116.27.153|57128
+2022-06-20T02:44:54.195Z,4.195472,1d70,7 [FLog::Network] serverId: 128.116.27.153|57128
+2022-06-20T02:44:54.196Z,4.196478,1d70,7 [FLog::Network] Replicator created for player 128.116.27.153|57128
+2022-06-20T02:44:54.196Z,4.196478,1d70,7 [FLog::Network] Replicator created: 1880F410
+2022-06-20T02:44:54.355Z,4.355231,1d70,7 [FLog::Network] Time taken to initialize schema = 8.234800 ms
+2022-06-20T02:44:54.355Z,4.355231,1d70,7 [FLog::Network] Assigned peer id = 878
+2022-06-20T02:44:54.359Z,4.359251,1d70,7 [FLog::Network] Join snapshot timer: 0.372200
+2022-06-20T02:44:55.031Z,5.031162,089c,7 [FLog::Network] Setting latency from Ixp tx: 0 rx: 0
+2022-06-20T02:44:56.816Z,6.816452,02fc,6 [FLog::Output] Server RobloxGitHash: 4d6c4589e833eb28bf4e444d7eea6ce3f388fc88
+2022-06-20T02:44:56.816Z,6.816452,02fc,6 [FLog::Output] Server Prefix: 0.531.0.5310423_20220619T123046Z_RCC_1bfc0
+2022-06-20T02:44:59.531Z,9.531944,1c14,6 [FLog::Graphics] Future is bright shadows
+2022-06-20T02:44:59.763Z,9.763449,1c14,6 [FLog::Graphics] SolidTextures::initSolidTextures()
+2022-06-20T02:44:59.763Z,9.763449,1c14,6 [FLog::Graphics] Terrain TextureArray 512x512, arraySize: 36, mip: 10
+2022-06-20T02:45:00.015Z,10.015914,1c14,6 [FLog::Error] Asset (Image) "" load failed in Workspace.WorkspaceCom.001_Dentist.Xray.Decal.Texture: Unexpected URL
+2022-06-20T02:45:02.152Z,12.152039,02fc,6 [FLog::Output] Hidden Surface Removal data for Head in uncle_jay5578 rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.154Z,12.154019,02fc,6 [FLog::Output] Hidden Surface Removal data for Head in uncle_jay5578 rbxassetid://8635368147 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.154Z,12.154019,02fc,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168400 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for RightLowerArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168400 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168402 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168402 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168398 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for RightUpperArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168398 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155009,02fc,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168573 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155999,02fc,6 [FLog::Output] Hidden Surface Removal data for LowerTorso in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168573 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155999,02fc,6 [FLog::Output] Hidden Surface Removal data for RightHand in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168401 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.155Z,12.155999,02fc,6 [FLog::Output] Hidden Surface Removal data for RightHand in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168401 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168468 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for UpperTorso in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168468 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftHand in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168403 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftHand in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168403 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168418 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerArm in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168418 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168545 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.156Z,12.156990,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftLowerLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168545 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.157Z,12.157980,02fc,6 [FLog::Output] Hidden Surface Removal data for RightFoot in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168542 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.157Z,12.157980,02fc,6 [FLog::Output] Hidden Surface Removal data for RightFoot in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168542 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.157Z,12.157980,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168539 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftUpperLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168539 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168540 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for RightLowerLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168540 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168537 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for LeftFoot in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168537 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168571 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for RightUpperLeg in uncle_jay5578 https://assetdelivery.roblox.com/v1/asset/?id=8650168571 is invalid, reason: HSR data is outdated. current version is 17, latest version is 18. 
+2022-06-20T02:45:02.159Z,12.159961,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9110433667 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:02.160Z,12.160951,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=9110433667 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:02.160Z,12.160951,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6937034645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:02.160Z,12.160951,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=6937034645 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:02.161Z,12.161942,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:02.161Z,12.161942,02fc,6 [FLog::Output] Hidden Surface Removal data for Handle https://assetdelivery.roblox.com/v1/asset/?id=8917459520 is invalid, reason: HSR data is outdated. current version is 16, latest version is 18. 
+2022-06-20T02:45:12.846Z,22.846121,089c,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=8303475361" load failed in Workspace.Model.001_Mountain_Trees.water.Waterfall.Water.Texture: Request failed
+2022-06-20T02:45:12.846Z,22.846121,089c,12 [DFLog::HttpTraceError] HttpResponse(#648 227C42C8) time:9474.3ms (net:2124.9ms callback:0.0ms timeInRetryQueue:0.0ms) error:12 message:HttpError: Unknown url:"https://assetdelivery.roblox.com/v1/asset?id=8303475361" ip:23.218.224.86 external:0 numberOfTimesRetried:0
+2022-06-20T02:45:15.386Z,25.386730,047c,6 [FLog::Error] Asset (Image) "https://assetdelivery.roblox.com/v1/asset?id=85577728" load failed in Workspace.Sunshineyhanh.Humanoid.Clothes: Request failed
+2022-06-20T02:45:39.280Z,49.280140,1c14,6 [FLog::Graphics] Setting screen DPI scale to 0.00 (was 1.00)
+2022-06-20T02:45:39.453Z,49.453011,1c14,6 [FLog::Error] signalr: new state: 0, message: stop was called
+2022-06-20T02:45:39.455Z,49.455063,1c14,6 [DFLog::PerfHistogram] Performance histogram MutexContentionWait
+2022-06-20T02:45:39.456Z,49.456089,1c14,6 [DFLog::PerfHistogram]   <1     us : 40
+2022-06-20T02:45:39.456Z,49.456089,1c14,6 [DFLog::PerfHistogram]   <3     us : 0
+2022-06-20T02:45:39.479Z,49.479931,1c14,6 [DFLog::PerfHistogram]   <9     us : 0
+2022-06-20T02:45:39.479Z,49.479931,1c14,6 [DFLog::PerfHistogram]   <27    us : 0
+2022-06-20T02:45:39.479Z,49.479931,1c14,6 [DFLog::PerfHistogram]   <81    us : 0
+2022-06-20T02:45:39.480Z,49.480907,1c14,6 [DFLog::PerfHistogram]   <243   us : 0
+2022-06-20T02:45:39.480Z,49.480907,1c14,6 [DFLog::PerfHistogram]   <729   us : 0
+2022-06-20T02:45:39.480Z,49.480907,1c14,6 [DFLog::PerfHistogram]   <2187  us : 0
+2022-06-20T02:45:39.480Z,49.480907,1c14,6 [DFLog::PerfHistogram]   <6561  us : 0
+2022-06-20T02:45:39.480Z,49.480907,1c14,6 [DFLog::PerfHistogram]  (larger)   : 0
+2022-06-20T02:45:39.493Z,49.493591,1c14,7 [FLog::Network] Client:Disconnect
+2022-06-20T02:45:39.493Z,49.493591,1c14,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] MRD cleanup WorkerCount available: 2, for MRD table size: 42437
+2022-06-20T02:45:39.506Z,49.506271,1c14,7 [FLog::Network] Time to disconnect replication data: 12.737000
+2022-06-20T02:45:45.837Z,55.837479,1c14,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T02:45:45.880Z,55.880001,0f10,7 [FLog::Network] Connection lost
+2022-06-20T02:45:45.881Z,55.881989,0f10,7 [FLog::Network] Connection lost: connectMode: Disconnect ASAP, timeMS:55881, connectionTime 3981
+2022-06-20T02:45:45.881Z,55.881989,0f10,7 [FLog::Network] Connection lost: AckTimeout 0, IsOutgoingDataWaiting 0
+2022-06-20T02:45:45.881Z,55.881989,0f10,7 [FLog::Network] Disconnection Notification. Reason: 285
+2022-06-20T02:45:46.447Z,56.447002,1c14,6 [FLog::Output] OnDisconnect http req time:609.53ms
+2022-06-20T02:45:46.449Z,56.449024,1c14,7 [FLog::Network] Replicator destroyed: 1880F410
+2022-06-20T02:45:46.450Z,56.450035,1c14,7 [FLog::Network] Sending disconnect with reason: 285
+2022-06-20T02:45:51.188Z,61.188103,1c14,7 [FLog::Network] Client:Disconnect
+2022-06-20T02:45:51.588Z,61.588600,1c14,6 [FLog::Output] Closing Fmod (as 61, ml 0, sl 0).
+2022-06-20T02:45:52.804Z,62.804527,1c14,6 [FLog::Output] Fmod Closed.
+2022-06-20T02:45:52.815Z,62.815521,1c14,7 [FLog::Network] NetworkClient:Remove
+2022-06-20T02:45:52.815Z,62.815521,1c14,7 [DFLog::MegaReplicatorLogDisconnectCleanUpLog] Destroying MegaReplicator.
+2022-06-20T02:46:02.588Z,72.588440,1c14,12 [DFLog::HttpTraceError] HttpResponse(#1183 241C6DA0) time:99.9ms (net:99.7ms callback:0.0ms timeInRetryQueue:0.0ms) error:9 message:HttpError: Aborted url:"https://client-telemetry.roblox.com" ip: external:0 numberOfTimesRetried:0
