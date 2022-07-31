@@ -42,3 +42,4 @@ Sending this message to the server, we get the flag.
 
 **Flag**: TFCCTF{Y0u_c4N_h1d3_d47A_1n_TCP_@f73R_A11}
 
+I later confirmed with the challenge author that everyone was supposed to receive the URG messages, so the issue was unintended. 
